@@ -10,13 +10,13 @@ tags:
 ---
 # Ramones
 
-The Ramones were an American [punk rock](../genres/punk-rock.md) band formed in 1974 whose two-minute, three-chord blasts effectively invented the genre as a recognizable form. Though the four founding members — Joey, Johnny, Dee Dee, and Tommy — came from Forest Hills, Queens, their creative home was Manhattan's [Lower East Side](../neighborhoods/lower-east-side.md), where they became the house band at [CBGB](cbgb.md). Their leather-jacketed, bowl-cut uniformity and refusal of '70s rock excess provided the template every later punk and post-punk act would either follow or react against. By the time they retired in 1996 they had played 2,263 shows and reshaped popular music without ever scoring a real hit single.
+The Ramones were an American [punk rock](../genres/punk-rock.md) band formed in 1974 whose two-minute, three-chord blasts effectively invented the genre as a recognizable form. Though the four founding members — Joey, Johnny, Dee Dee, and Tommy — came from Forest Hills, Queens, their creative home was Manhattan's [Lower East Side](../neighborhoods/lower-east-side.md), where they became the house band at [CBGB](../venues/cbgb.md). Their leather-jacketed, bowl-cut uniformity and refusal of '70s rock excess provided the template every later punk and post-punk act would either follow or react against. By the time they retired in 1996 they had played 2,263 shows and reshaped popular music without ever scoring a real hit single.
 
 ## Formation and Manhattan context
 
 Joey Ramone (Jeffrey Hyman), Johnny Ramone (John Cummings), and Dee Dee Ramone (Douglas Colvin) formed the band in early 1974, with Tommy Ramone (Tamás Erdélyi) shifting from manager to drummer when no one else could keep up with their tempos. They adopted a fictional shared surname inspired by Paul McCartney's old stage alias, "Paul Ramon."
 
-Their first show was at the long-gone Performance Studio on East 23rd Street in March 1974, but within months they had migrated to a struggling Bowery bar called [CBGB](cbgb.md) run by Hilly Kristal. They played there constantly through 1974–75 alongside [Television](../artists/television.md), [Blondie](../artists/blondie.md), [Patti Smith](../artists/patti-smith.md), and [Talking Heads](../artists/talking-heads.md) — a tight ecosystem of acts who shared bills, drummers, and apartments across the [East Village](../neighborhoods/east-village.md) and [Lower East Side](../neighborhoods/lower-east-side.md).
+Their first show was at the long-gone Performance Studio on East 23rd Street in March 1974, but within months they had migrated to a struggling Bowery bar called [CBGB](../venues/cbgb.md) run by Hilly Kristal. They played there constantly through 1974–75 alongside [Television](television.md), [Blondie](blondie.md), [Patti Smith](patti-smith.md), and [Talking Heads](talking-heads.md) — a tight ecosystem of acts who shared bills, drummers, and apartments across the [East Village](../neighborhoods/east-village.md) and [Lower East Side](../neighborhoods/lower-east-side.md).
 
 ## Sound and signature work
 
@@ -26,24 +26,24 @@ Phil Spector produced *End of the Century* (1980), an attempt at chart success t
 
 ## Manhattan venue history
 
-- [CBGB](cbgb.md) — effectively their home venue from 1974 onward; played dozens of formative sets there.
-- [Max's Kansas City](maxs-kansas-city.md) — frequent uptown counterpoint to CBGB through the late '70s.
-- [Mercury Lounge](mercury-lounge.md) — late-period intimate New York shows in the '90s.
-- [Bowery Ballroom](bowery-ballroom.md) — Joey Ramone's solo and tribute appearances near the end of his life.
+- [CBGB](../venues/cbgb.md) — effectively their home venue from 1974 onward; played dozens of formative sets there.
+- [Max's Kansas City](../venues/maxs-kansas-city.md) — frequent uptown counterpoint to CBGB through the late '70s.
+- [Mercury Lounge](../venues/mercury-lounge.md) — late-period intimate New York shows in the '90s.
+- [Bowery Ballroom](../venues/bowery-ballroom.md) — Joey Ramone's solo and tribute appearances near the end of his life.
 - The Palladium (14th Street) — major NYC headlining stops in the early '80s.
 
 ## Legacy
 
 Joey Ramone died of lymphoma in 2001, Dee Dee of an overdose in 2002, Johnny of cancer in 2004, and Tommy in 2014, leaving no original members alive. The band was inducted into the Rock and Roll Hall of Fame in 2002. Joey Ramone Place, at the corner of Bowery and East 2nd Street near the old CBGB site, is the most-stolen street sign in New York City history.
 
-Their direct line of influence runs through every Manhattan punk and post-punk band that followed, from [Sonic Youth](../artists/sonic-youth.md) to [The Strokes](../artists/strokes.md), and globally through the Sex Pistols, the Clash, and Nirvana, all of whom have credited the Ramones as foundational.
+Their direct line of influence runs through every Manhattan punk and post-punk band that followed, from [Sonic Youth](sonic-youth.md) to [The Strokes](strokes.md), and globally through the Sex Pistols, the Clash, and Nirvana, all of whom have credited the Ramones as foundational.
 
 ## See also
 
-- [CBGB](cbgb.md)
-- [Television](../artists/television.md)
-- [Blondie](../artists/blondie.md)
-- [New York Dolls](../artists/new-york-dolls.md)
+- [CBGB](../venues/cbgb.md)
+- [Television](television.md)
+- [Blondie](blondie.md)
+- [New York Dolls](new-york-dolls.md)
 - [punk rock](../genres/punk-rock.md)
 - [Lower East Side](../neighborhoods/lower-east-side.md)
 
@@ -51,4 +51,3 @@ Their direct line of influence runs through every Manhattan punk and post-punk b
 
 - Rock and Roll Hall of Fame: Ramones — [https://www.rockhall.com/inductees/ramones](https://www.rockhall.com/inductees/ramones)
 - NYT, "Joey Ramone, Punk's Influential Yelper, Dies at 49" — [https://www.nytimes.com/2001/04/16/arts/joey-ramone-punk-s-influential-yelper-dies-at-49.html](https://www.nytimes.com/2001/04/16/arts/joey-ramone-punk-s-influential-yelper-dies-at-49.html)
-
