@@ -10,13 +10,13 @@ tags:
 ---
 # Talking Heads
 
-Talking Heads were an American rock band formed in 1975 by Rhode Island School of Design alumni David Byrne, Chris Frantz, and Tina Weymouth, with keyboardist/guitarist Jerry Harrison joining in 1977. Based in a loft in the [Lower East Side](../neighborhoods/lower-east-side.md), they emerged from [CBGB](../venues/cbgb.md) alongside the [Ramones](ramones.md) and [Blondie](./blondie.md) but pursued a far more cerebral path, bending [punk rock](../genres/punk-rock.md) into [new wave](../genres/new-wave.md) and ultimately into Afrobeat-derived art funk. By the mid-1980s they were arguably the most critically respected American band of their generation.
+Talking Heads were an American rock band formed in 1975 by Rhode Island School of Design alumni David Byrne, Chris Frantz, and Tina Weymouth, with keyboardist/guitarist Jerry Harrison joining in 1977. Based in a loft in the [Lower East Side](../neighborhoods/lower-east-side.md), they emerged from [CBGB](../venues/cbgb.md) alongside the [Ramones](../genres/ramones.md) and [Blondie](./blondie.md) but pursued a far more cerebral path, bending [punk rock](../genres/punk-rock.md) into [new wave](../genres/new-wave.md) and ultimately into Afrobeat-derived art funk. By the mid-1980s they were arguably the most critically respected American band of their generation.
 
 ## Formation and Manhattan context
 
 Byrne, Frantz, and Weymouth had played together at RISD as the Artistics. After graduating, the trio moved into a loft at 195 Chrystie Street on the [Lower East Side](../neighborhoods/lower-east-side.md) in 1974 and began rehearsing as Talking Heads. Their first show was opening for the Ramones at [CBGB](../venues/cbgb.md) on June 5, 1975 — a date often used as a hinge moment in downtown New York history.
 
-They became CBGB regulars almost immediately, sharing bills with [Television](./television.md) and [Patti Smith](./patti-smith.md), but their tightly-wound, polo-shirted aesthetic stood apart from the Bowery's leather-and-rip image. The band signed to Sire Records in late 1976. Brian Eno began producing them in 1978, pushing them toward the polyrhythmic, Afro-influenced direction that would define their middle period.
+They became CBGB regulars almost immediately, sharing bills with [Television](../venues/television.md) and [Patti Smith](./patti-smith.md), but their tightly-wound, polo-shirted aesthetic stood apart from the Bowery's leather-and-rip image. The band signed to Sire Records in late 1976. Brian Eno began producing them in 1978, pushing them toward the polyrhythmic, Afro-influenced direction that would define their middle period.
 
 ## Sound and signature work
 
@@ -26,7 +26,7 @@ They became CBGB regulars almost immediately, sharing bills with [Television](./
 
 ## Manhattan venue history
 
-- [CBGB](../venues/cbgb.md) — debuted opening for the [Ramones](ramones.md) on June 5, 1975; a primary residence through 1977.
+- [CBGB](../venues/cbgb.md) — debuted opening for the [Ramones](../genres/ramones.md) on June 5, 1975; a primary residence through 1977.
 - [Max's Kansas City](../venues/maxs-kansas-city.md) — frequent shows through the late '70s.
 - [Mudd Club](../venues/mudd-club.md) — a hangout and occasional performance space during the *Fear of Music* era.
 - The Palladium (14th Street) — major NYC headlining in the *Speaking in Tongues* era.

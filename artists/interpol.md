@@ -44,7 +44,7 @@ Carlos Dengler left music for film acting and writing in 2010, a memorable case 
 - [The Strokes](./strokes.md)
 - [Yeah Yeah Yeahs](./yeah-yeah-yeahs.md)
 - [LCD Soundsystem](./lcd-soundsystem.md)
-- [Television](./television.md)
+- [Television](../venues/television.md)
 - [post-punk revival](../genres/post-punk-revival.md)
 - [Mercury Lounge](../venues/mercury-lounge.md)
 

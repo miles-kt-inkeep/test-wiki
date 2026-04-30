@@ -38,7 +38,7 @@ By the 2010s the Village was an expensive landmark district with a steady flow o
 
 - [Patti Smith](../artists/patti-smith.md) — recorded *Horses* at Electric Lady in 1975.
 - [The Strokes](../artists/strokes.md) — recorded multiple albums at Electric Lady.
-- [Television](../artists/television.md) — Verlaine and Hell met in Village rooming houses before the CBGB years.
+- [Television](../venues/television.md) — Verlaine and Hell met in Village rooming houses before the CBGB years.
 - [The New York Dolls](../artists/new-york-dolls.md) — early Mercer Arts Center residencies in 1972 sat just east of the Village line.
 
 ## Today

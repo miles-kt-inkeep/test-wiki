@@ -10,7 +10,7 @@ tags:
 ---
 # Blondie
 
-Blondie is an American rock band formed in Manhattan in 1974 by singer Debbie Harry and guitarist Chris Stein, originating in the same [CBGB](../venues/cbgb.md) and [Max's Kansas City](../venues/maxs-kansas-city.md) circuit that produced [Ramones](ramones.md), [Television](./television.md), and [Talking Heads](./talking-heads.md). Where their peers stayed within the [punk rock](../genres/punk-rock.md) idiom, Blondie absorbed [disco](../genres/disco.md), reggae, girl-group pop, and even early [hip-hop](../genres/hip-hop.md), turning the Bowery scene into bona fide top-40 success. Harry's icy downtown glamour made her the visual face of late-'70s Manhattan music. The band has sold more than 40 million records worldwide.
+Blondie is an American rock band formed in Manhattan in 1974 by singer Debbie Harry and guitarist Chris Stein, originating in the same [CBGB](../venues/cbgb.md) and [Max's Kansas City](../venues/maxs-kansas-city.md) circuit that produced [Ramones](../genres/ramones.md), [Television](../venues/television.md), and [Talking Heads](./talking-heads.md). Where their peers stayed within the [punk rock](../genres/punk-rock.md) idiom, Blondie absorbed [disco](../genres/disco.md), reggae, girl-group pop, and even early [hip-hop](../genres/hip-hop.md), turning the Bowery scene into bona fide top-40 success. Harry's icy downtown glamour made her the visual face of late-'70s Manhattan music. The band has sold more than 40 million records worldwide.
 
 ## Formation and Manhattan context
 
@@ -41,7 +41,7 @@ The band's downtown lineage runs directly to later New York acts including [Yeah
 
 ## See also
 
-- [Ramones](ramones.md)
+- [Ramones](../genres/ramones.md)
 - [Talking Heads](./talking-heads.md)
 - [CBGB](../venues/cbgb.md)
 - [Studio 54](../venues/studio-54.md)
