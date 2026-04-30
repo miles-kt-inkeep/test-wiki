@@ -1,0 +1,14 @@
+{
+  "version": "0.0.1",
+  "configurations": [
+    {
+      "name": "open-knowledge-ui",
+      "runtimeExecutable": "npx",
+      "runtimeArgs": [
+        "@inkeep/open-knowledge",
+        "ui"
+      ],
+      "port": 3000
+    }
+  ]
+}

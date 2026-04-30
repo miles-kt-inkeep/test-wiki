@@ -1,0 +1,12 @@
+{
+  "servers": {
+    "open-knowledge": {
+      "type": "stdio",
+      "command": "npx",
+      "args": [
+        "@inkeep/open-knowledge",
+        "mcp"
+      ]
+    }
+  }
+}
