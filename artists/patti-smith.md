@@ -16,7 +16,7 @@ Patti Smith is an American singer, songwriter, and poet whose 1975 debut album *
 
 Smith moved to Manhattan in 1967 and gravitated to the bohemian [Chelsea](../neighborhoods/chelsea-meatpacking.md) milieu, working at Scribner's bookstore and writing poetry. She published her first book, *Seventh Heaven*, in 1972, and began performing poetry readings at St. Mark's Church in the [East Village](../neighborhoods/east-village.md), often accompanied by guitarist Lenny Kaye.
 
-The Patti Smith Group — Smith, Kaye, pianist Richard Sohl, bassist Ivan Král, and drummer Jay Dee Daugherty — formed in 1974. Their seven-week joint residency with [Television](./television.md) at [CBGB](../venues/cbgb.md) in spring 1975 attracted Clive Davis, who signed Smith to Arista. She was a fixture at [Max's Kansas City](../venues/maxs-kansas-city.md) and circulated through the same loft scene as the [Ramones](../genres/ramones.md), [Blondie](./blondie.md), and [Talking Heads](./talking-heads.md).
+The Patti Smith Group — Smith, Kaye, pianist Richard Sohl, bassist Ivan Král, and drummer Jay Dee Daugherty — formed in 1974. Their seven-week joint residency with [Television](./television.md) at [CBGB](../venues/cbgb.md) in spring 1975 attracted Clive Davis, who signed Smith to Arista. She was a fixture at [Max's Kansas City](../venues/maxs-kansas-city.md) and circulated through the same loft scene as the [Ramones](ramones.md), [Blondie](./blondie.md), and [Talking Heads](./talking-heads.md).
 
 ## Sound and signature work
 

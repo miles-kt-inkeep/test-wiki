@@ -18,7 +18,7 @@ The East Village in the 1970s and 1980s was cheap, dangerous, and creatively sat
 
 ## Music history
 
-The 1970s East Village was where the [Ramones](../genres/ramones.md), [Television](../artists/television.md), and [Patti Smith](../artists/patti-smith.md) actually lived while they were turning [CBGB](../venues/cbgb.md) into a legend a few blocks south. The [New York Dolls](../artists/new-york-dolls.md) had used the Mercer Arts Center earlier in the decade, but by 1975 the locus had shifted east, and the East Village punk apartment became a kind of folkloric address.
+The 1970s East Village was where the [Ramones](../artists/ramones.md), [Television](../artists/television.md), and [Patti Smith](../artists/patti-smith.md) actually lived while they were turning [CBGB](../venues/cbgb.md) into a legend a few blocks south. The [New York Dolls](../artists/new-york-dolls.md) had used the Mercer Arts Center earlier in the decade, but by 1975 the locus had shifted east, and the East Village punk apartment became a kind of folkloric address.
 
 The 1980s pulled in a different scene. The [Mudd Club](../venues/mudd-club.md), at 77 White Street, was technically over in [SoHo](./soho.md)/Tribeca, but the East Village fed it; so did [Danceteria](../venues/danceteria.md) up on West 21st in [Chelsea](./chelsea-meatpacking.md), where [Madonna](../artists/madonna.md) coat-checked before she was Madonna. East Village clubs like the Pyramid Club on Avenue A and 8BC on East 8th hosted the drag, performance-art, and [no wave](../genres/no-wave.md) overflow; [Sonic Youth](../artists/sonic-youth.md) cut their teeth in this circuit.
 
@@ -35,7 +35,7 @@ By the late 2000s, rising rents had cleared most of the working musicians out, a
 
 ## Notable artists and acts
 
-- [Ramones](../genres/ramones.md) — Joey, Dee Dee, and Johnny lived around East 2nd Street and the Bowery.
+- [Ramones](../artists/ramones.md) — Joey, Dee Dee, and Johnny lived around East 2nd Street and the Bowery.
 - [Patti Smith](../artists/patti-smith.md) — lived on East 10th Street at various points.
 - [Television](../artists/television.md) — Tom Verlaine and Richard Hell shared an East Village loft.
 - [Sonic Youth](../artists/sonic-youth.md) — formed in East Village rehearsal spaces in 1981.

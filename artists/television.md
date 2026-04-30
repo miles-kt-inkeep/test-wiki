@@ -20,7 +20,7 @@ Hell left in 1975 (over creative tensions and Verlaine's refusal to record his s
 
 ## Sound and signature work
 
-*Marquee Moon* (1977) is built around Verlaine and Lloyd's interlocking lead guitars — closer to Quicksilver Messenger Service than to the [Ramones](../genres/ramones.md) — and the ten-minute title track is a masterclass in patient, modal guitar improvisation. The album also delivered "See No Evil," "Friction," and "Venus." *Adventure* (1978) was gentler and less celebrated; the band broke up in 1978.
+*Marquee Moon* (1977) is built around Verlaine and Lloyd's interlocking lead guitars — closer to Quicksilver Messenger Service than to the [Ramones](ramones.md) — and the ten-minute title track is a masterclass in patient, modal guitar improvisation. The album also delivered "See No Evil," "Friction," and "Venus." *Adventure* (1978) was gentler and less celebrated; the band broke up in 1978.
 
 A 1992 self-titled reunion album was warmly received but produced no comeback. Verlaine made a string of solo records that retained the patient guitar elegance of his band work. The "Marquee Moon" sound — long, clean Fender-into-Vox-AC30 guitar lines that argue rather than thrash — became a Manhattan house style passed down to [Sonic Youth](./sonic-youth.md), [Interpol](./interpol.md), and [The Strokes](./strokes.md).
 

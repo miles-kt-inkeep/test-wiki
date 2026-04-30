@@ -20,7 +20,7 @@ Ruskin lost the lease in 1974, and the club was reopened later that year by Tomm
 
 ## Scene and significance
 
-The Velvet Underground's final shows with Lou Reed were recorded upstairs in August 1970 and released as *Live at Max's Kansas City*. Through the early 1970s, Max's competed with [CBGB](./cbgb.md) for the same downtown bands; many played both rooms in the same week. The [New York Dolls](../artists/new-york-dolls.md) effectively launched glam-punk from its upstairs stage, and [Blondie](../artists/blondie.md), [Patti Smith](../artists/patti-smith.md), and the [Ramones](../genres/ramones.md) all built early followings there.
+The Velvet Underground's final shows with Lou Reed were recorded upstairs in August 1970 and released as *Live at Max's Kansas City*. Through the early 1970s, Max's competed with [CBGB](./cbgb.md) for the same downtown bands; many played both rooms in the same week. The [New York Dolls](../artists/new-york-dolls.md) effectively launched glam-punk from its upstairs stage, and [Blondie](../artists/blondie.md), [Patti Smith](../artists/patti-smith.md), and the [Ramones](../artists/ramones.md) all built early followings there.
 
 Beyond rock, Max's hosted Bob Marley's first New York shows opening for Bruce Springsteen in 1973, plus [no wave](../genres/no-wave.md) and proto-[new wave](../genres/new-wave.md) bills that defined the late-1970s downtown sound.
 
@@ -31,7 +31,7 @@ Beyond rock, Max's hosted Bob Marley's first New York shows opening for Bruce Sp
 - Bob Marley & the Wailers — opening for Bruce Springsteen, July 1973.
 - [Blondie](../artists/blondie.md) — early sets with Television Personalities and others, 1975.
 - Sid Vicious — solo shows in September 1978 that produced his only solo live album.
-- [Ramones](../genres/ramones.md) — repeated bookings during the CBGB cross-over era.
+- [Ramones](../artists/ramones.md) — repeated bookings during the CBGB cross-over era.
 - [Patti Smith](../artists/patti-smith.md) — readings and early band shows.
 
 ## Today

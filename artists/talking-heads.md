@@ -10,7 +10,7 @@ tags:
 ---
 # Talking Heads
 
-Talking Heads were an American rock band formed in 1975 by Rhode Island School of Design alumni David Byrne, Chris Frantz, and Tina Weymouth, with keyboardist/guitarist Jerry Harrison joining in 1977. Based in a loft in the [Lower East Side](../neighborhoods/lower-east-side.md), they emerged from [CBGB](../venues/cbgb.md) alongside the [Ramones](../genres/ramones.md) and [Blondie](./blondie.md) but pursued a far more cerebral path, bending [punk rock](../genres/punk-rock.md) into [new wave](../genres/new-wave.md) and ultimately into Afrobeat-derived art funk. By the mid-1980s they were arguably the most critically respected American band of their generation.
+Talking Heads were an American rock band formed in 1975 by Rhode Island School of Design alumni David Byrne, Chris Frantz, and Tina Weymouth, with keyboardist/guitarist Jerry Harrison joining in 1977. Based in a loft in the [Lower East Side](../neighborhoods/lower-east-side.md), they emerged from [CBGB](../venues/cbgb.md) alongside the [Ramones](ramones.md) and [Blondie](./blondie.md) but pursued a far more cerebral path, bending [punk rock](../genres/punk-rock.md) into [new wave](../genres/new-wave.md) and ultimately into Afrobeat-derived art funk. By the mid-1980s they were arguably the most critically respected American band of their generation.
 
 ## Formation and Manhattan context
 
@@ -26,7 +26,7 @@ They became CBGB regulars almost immediately, sharing bills with [Television](./
 
 ## Manhattan venue history
 
-- [CBGB](../venues/cbgb.md) — debuted opening for the [Ramones](../genres/ramones.md) on June 5, 1975; a primary residence through 1977.
+- [CBGB](../venues/cbgb.md) — debuted opening for the [Ramones](ramones.md) on June 5, 1975; a primary residence through 1977.
 - [Max's Kansas City](../venues/maxs-kansas-city.md) — frequent shows through the late '70s.
 - [Mudd Club](../venues/mudd-club.md) — a hangout and occasional performance space during the *Fear of Music* era.
 - The Palladium (14th Street) — major NYC headlining in the *Speaking in Tongues* era.

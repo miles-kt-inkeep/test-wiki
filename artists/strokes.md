@@ -10,7 +10,7 @@ tags:
 ---
 # The Strokes
 
-The Strokes are an American rock band formed in 1998 in Manhattan by singer Julian Casablancas, guitarists Nick Valensi and Albert Hammond Jr., bassist Nikolai Fraiture, and drummer Fabrizio Moretti. Their 2001 debut *Is This It* effectively launched the global [post-punk revival](../genres/post-punk-revival.md), shifting the center of gravity of indie rock back to the [Lower East Side](../neighborhoods/lower-east-side.md) for the first time since the early-'80s [Sonic Youth](./sonic-youth.md) era. Their tight, downstroke-heavy sound — pulled equally from [Television](./television.md), the Velvet Underground, and the [Ramones](../genres/ramones.md) — defined a decade of New York rock.
+The Strokes are an American rock band formed in 1998 in Manhattan by singer Julian Casablancas, guitarists Nick Valensi and Albert Hammond Jr., bassist Nikolai Fraiture, and drummer Fabrizio Moretti. Their 2001 debut *Is This It* effectively launched the global [post-punk revival](../genres/post-punk-revival.md), shifting the center of gravity of indie rock back to the [Lower East Side](../neighborhoods/lower-east-side.md) for the first time since the early-'80s [Sonic Youth](./sonic-youth.md) era. Their tight, downstroke-heavy sound — pulled equally from [Television](./television.md), the Velvet Underground, and the [Ramones](ramones.md) — defined a decade of New York rock.
 
 ## Formation and Manhattan context
 
