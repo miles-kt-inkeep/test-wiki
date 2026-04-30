@@ -21,14 +21,14 @@ The club expanded next door in the 1980s with CB's 313 Gallery and a basement re
 
 ## Scene and significance
 
-Between 1974 and 1978, CBGB hosted what is now considered the founding canon of American [punk rock](../genres/punk-rock.md): the [Ramones](ramones.md) playing 17-minute sets, [Blondie](../artists/blondie.md) refining their pop instincts, and [Talking Heads](../artists/talking-heads.md) debuting their nervy art-rock. The 1976 compilation *Live at CBGB's* cemented the venue's mythology nationally.
+Between 1974 and 1978, CBGB hosted what is now considered the founding canon of American [punk rock](../genres/punk-rock.md): the [Ramones](../genres/ramones.md) playing 17-minute sets, [Blondie](../artists/blondie.md) refining their pop instincts, and [Talking Heads](../artists/talking-heads.md) debuting their nervy art-rock. The 1976 compilation *Live at CBGB's* cemented the venue's mythology nationally.
 
 By the 1980s the club had become a hardcore matinee institution, hosting Sunday afternoon shows for the [Beastie Boys](../artists/beastie-boys.md) (in their pre-rap punk incarnation), Bad Brains, and Agnostic Front. Later years brought metal, post-hardcore, and the early stirrings of the [post-punk revival](../genres/post-punk-revival.md).
 
 ## Notable performances / residencies
 
 - [Television](../artists/television.md) — the Sunday residency in 1974 that effectively invented the room's booking model.
-- [Ramones](ramones.md) — over 70 shows in 1974–1976, including the recordings that surfaced on bootlegs worldwide.
+- [Ramones](../genres/ramones.md) — over 70 shows in 1974–1976, including the recordings that surfaced on bootlegs worldwide.
 - [Patti Smith](../artists/patti-smith.md) — a seven-week residency with Television in spring 1975 that drew industry A&R.
 - [Blondie](../artists/blondie.md) — extended runs in 1975–1976 before Chrysalis signed them.
 - [Talking Heads](../artists/talking-heads.md) — debut as a trio opening for the Ramones, June 1975.

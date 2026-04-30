@@ -18,7 +18,7 @@ For most of the 20th century the LES was poor, loud, and architecturally stuck �
 
 ## Music history
 
-In the mid-1970s, [CBGB](../venues/cbgb.md) became the launching pad for nearly every band that mattered in American [punk rock](../genres/punk-rock.md): the [Ramones](../venues/ramones.md), [Television](../artists/television.md), [Blondie](../artists/blondie.md), [Patti Smith](../artists/patti-smith.md), [Talking Heads](../artists/talking-heads.md), and the [New York Dolls](../artists/new-york-dolls.md) all played the room repeatedly between 1974 and 1977. The bands lived blocks away in the [East Village](./east-village.md), but the stage was on the LES side of the Bowery, and the LES claims the lineage.
+In the mid-1970s, [CBGB](../venues/cbgb.md) became the launching pad for nearly every band that mattered in American [punk rock](../genres/punk-rock.md): the [Ramones](../genres/ramones.md), [Television](../artists/television.md), [Blondie](../artists/blondie.md), [Patti Smith](../artists/patti-smith.md), [Talking Heads](../artists/talking-heads.md), and the [New York Dolls](../artists/new-york-dolls.md) all played the room repeatedly between 1974 and 1977. The bands lived blocks away in the [East Village](./east-village.md), but the stage was on the LES side of the Bowery, and the LES claims the lineage.
 
 Through the 1980s the Bowery stayed grimy and the punk scene faded into hardcore and a long CBGB matinee tradition, while [no wave](../genres/no-wave.md) and art-rock pulled toward [SoHo](./soho.md) lofts. The 1990s brought a slow flip: the Mercury Lounge opened on East Houston in 1993, the Bowery Ballroom followed at 6 Delancey in 1998, and a new generation of indie bands started showing up.
 
@@ -33,7 +33,7 @@ That generation broke commercially in 2001 when [the Strokes](../artists/strokes
 
 ## Notable artists and acts
 
-- [Ramones](../venues/ramones.md) — defined the CBGB sound; lived in the East Village but worked the Bowery.
+- [Ramones](../genres/ramones.md) — defined the CBGB sound; lived in the East Village but worked the Bowery.
 - [Patti Smith](../artists/patti-smith.md) — held a famous residency at CBGB in 1975.
 - [Blondie](../artists/blondie.md) — Bowery regulars before *Parallel Lines*.
 - [Television](../artists/television.md) — Tom Verlaine's band that talked Hilly Kristal into letting rock bands play CBGB at all.

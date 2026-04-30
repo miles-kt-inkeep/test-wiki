@@ -34,13 +34,13 @@ The original lineup splintered between 1975 and 1977. Johnny Thunders formed the
 
 ## Legacy
 
-The Dolls' direct line of descent runs straight to the Sex Pistols (via Malcolm McLaren), the [Ramones](../venues/ramones.md), [Blondie](./blondie.md), and effectively all of the [CBGB](../venues/cbgb.md) class of 1975–77 — every band on that scene has cited the Dolls as a crucial precedent, even if only as a reaction against their glam excess. Johnny Thunders died in 1991, Jerry Nolan in 1992, Arthur Kane in 2004 (just weeks after the band's emotional Meltdown Festival reunion organized by Morrissey), Sylvain Sylvain in 2021, and David Johansen in February 2024.
+The Dolls' direct line of descent runs straight to the Sex Pistols (via Malcolm McLaren), the [Ramones](../genres/ramones.md), [Blondie](./blondie.md), and effectively all of the [CBGB](../venues/cbgb.md) class of 1975–77 — every band on that scene has cited the Dolls as a crucial precedent, even if only as a reaction against their glam excess. Johnny Thunders died in 1991, Jerry Nolan in 1992, Arthur Kane in 2004 (just weeks after the band's emotional Meltdown Festival reunion organized by Morrissey), Sylvain Sylvain in 2021, and David Johansen in February 2024.
 
 The Dolls' two-album, six-year run is now read as the missing link between the Velvet Underground and [punk rock](../genres/punk-rock.md), and the band is regularly cited as one of the most influential American rock acts never to have had a hit.
 
 ## See also
 
-- [Ramones](../venues/ramones.md)
+- [Ramones](../genres/ramones.md)
 - [Blondie](./blondie.md)
 - [Patti Smith](./patti-smith.md)
 - [Max's Kansas City](../venues/maxs-kansas-city.md)
