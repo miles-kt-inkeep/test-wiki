@@ -30,9 +30,12 @@ Disco was built on a steady four-on-the-floor kick drum at 110–130 BPM, sixtee
 
 ## Key artists
 
+- [Chic](./artists/chic.md) — Nile Rodgers and Bernard Edwards' Power Station band, the architects of "Le Freak" and "Good Times" and the in-house sound of Manhattan disco's commercial peak.
+- [Grace Jones](./artists/grace-jones.md) — Studio 54 fixture and Tom Moulton-produced Island Records artist whose late-1970s disco trilogy bridged into the Compass Point reinvention.
+- [Larry Levan](./artists/larry-levan.md) — Paradise Garage resident from 1977 to 1987; the namesake of "garage" music and the patron saint of the Manhattan dance floor.
 - [Madonna](../electronic-dance/artists/madonna.md) — broke out of the post-disco Danceteria scene with "Everybody" in 1982.
-- The Loft / Paradise Garage DJ canon — Mancuso, Levan, Knuckles — defined the modern DJ as artist.
-- Salsoul Orchestra, Chic, and Sister Sledge — the in-house sound of Manhattan disco's commercial peak.
+- The Loft / Paradise Garage DJ canon — Mancuso, [Levan](./artists/larry-levan.md), Knuckles — defined the modern DJ as artist.
+- Salsoul Orchestra and Sister Sledge — the in-house sound of Manhattan disco's commercial peak alongside [Chic](./artists/chic.md).
 
 ## Neighborhoods
 

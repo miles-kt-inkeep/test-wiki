@@ -32,7 +32,13 @@ Manhattan jazz from the 1970s on isn't a single sound — that's the point. The 
 
 ## Key artists
 
-While most artists associated with Manhattan jazz post-1970 fall outside this wiki's slug list, the scene's institutional spine was built by figures including Sam Rivers (Studio Rivbea), the Mel Lewis / Vanguard Jazz Orchestra, John Zorn (Knitting Factory and later The Stone), and Wynton Marsalis (Jazz at Lincoln Center). The downtown scene also overlapped with [Sonic Youth](../no-wave/artists/sonic-youth.md) and the [no wave](../no-wave/overview.md) generation through Glenn Branca and Arto Lindsay.
+- [Sam Rivers](./artists/sam-rivers.md) — saxophonist whose Studio Rivbea on Bond Street anchored the SoHo loft-jazz scene from 1971 onward.
+- [Ornette Coleman](./artists/ornette-coleman.md) — Manhattan-resident free-jazz pioneer from his 1959 Five Spot residency until his death in 2015; ran Artists House on Prince Street.
+- [John Zorn](./artists/john-zorn.md) — saxophonist, composer, Tzadik label founder, and curatorial spine of the Knitting Factory and The Stone.
+- [Wynton Marsalis](./artists/wynton-marsalis.md) — trumpeter and Jazz at Lincoln Center managing artistic director since 1987; the institutional architect of mainstream-jazz Manhattan.
+- The Mel Lewis / Vanguard Jazz Orchestra — Monday-night [Vanguard](../../neighborhoods/greenwich-village/venues/village-vanguard.md) residency that has run continuously since 1966.
+
+The downtown scene also overlapped with [Sonic Youth](../no-wave/artists/sonic-youth.md) and the [no wave](../no-wave/overview.md) generation through Glenn Branca and Arto Lindsay.
 
 ## Neighborhoods
 
