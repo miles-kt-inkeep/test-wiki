@@ -153,36 +153,38 @@ folders:
         - layer-consolidate
   - match: genres/**
     frontmatter:
-      description: "Manhattan music genre articles — covers genre origin, defining
-        sound, key venues, foundational artists, and Manhattan-specific scene
-        history from the 1970s to the present. Cross-links to artists/, venues/,
-        and neighborhoods/ for navigation."
+      description: "Manhattan music genre folders — each genre is its own folder
+        containing an `overview.md` (the canonical genre article) and an
+        optional `artists/` subfolder holding the bands and performers most
+        identified with that genre. Cross-links to venues/ and neighborhoods/
+        for navigation."
       tags:
         - manhattan-music-wiki
         - genre
-  - match: venues/**
+  - match: genres/*/artists/**
     frontmatter:
-      description: "Manhattan live-music venue articles — clubs, theaters, lofts,
-        and recording studios from the 1970s to today. Each article covers
-        location, era, scene affiliation, and notable performances. Cross-links
-        to artists/, genres/, and neighborhoods/."
-      tags:
-        - manhattan-music-wiki
-        - venue
-  - match: artists/**
-    frontmatter:
-      description: "Artist and band articles for acts whose careers were shaped by
-        Manhattan from the 1970s to today. Covers formation, signature work,
-        venue residencies, and scene context. Cross-links to genres/, venues/,
-        and neighborhoods/."
+      description: "Artist and band articles, nested inside their primary genre
+        folder. Covers formation, signature work, venue residencies, and scene
+        context. Cross-links to other genres/, venues/, and neighborhoods/."
       tags:
         - manhattan-music-wiki
         - artist
   - match: neighborhoods/**
     frontmatter:
-      description: "Manhattan neighborhood articles framed through music history —
-        which scenes incubated where, which venues anchored the area, and how
-        gentrification and rents reshaped the music geography over time."
+      description: "Manhattan neighborhood folders — each neighborhood is its own
+        folder containing an `overview.md` (the canonical neighborhood article)
+        and an optional `venues/` subfolder holding the live-music venues
+        physically located in that neighborhood. Cross-links to genres/ and
+        artists/."
       tags:
         - manhattan-music-wiki
         - neighborhood
+  - match: neighborhoods/*/venues/**
+    frontmatter:
+      description: "Live-music venue articles, nested inside their primary
+        neighborhood folder. Each article covers location, era, scene
+        affiliation, and notable performances. Cross-links to genre overviews,
+        artists, and other neighborhoods/."
+      tags:
+        - manhattan-music-wiki
+        - venue
