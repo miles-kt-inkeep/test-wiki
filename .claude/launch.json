@@ -3,9 +3,9 @@
   "configurations": [
     {
       "name": "open-knowledge-ui",
-      "runtimeExecutable": "npx",
+      "runtimeExecutable": "node",
       "runtimeArgs": [
-        "@inkeep/open-knowledge",
+        "/Users/mileskaming-thanassi/agents-private/public/open-knowledge/.claude/worktrees/agent-a96f9268f23763d3b/public/open-knowledge/packages/cli/dist/cli.mjs",
         "ui"
       ],
       "port": 3000

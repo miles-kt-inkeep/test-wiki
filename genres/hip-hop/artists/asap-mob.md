@@ -8,13 +8,13 @@ tags:
   - harlem
   - 2010s
 ---
-# A$AP Mob
+# A\$AP Mob
 
-A$AP Mob is a [hip-hop](../overview.md) collective founded in [Harlem](../../../neighborhoods/harlem/overview.md), Manhattan, around 2007 by Steven "A$AP Yams" Rodriguez alongside A$AP Bari and A$AP Illz. The crew rose to mainstream attention in 2011 through breakout member A$AP Rocky and his viral mixtape *LiveLoveA$AP* (2011), followed by his major-label debut *Long.Live.A$AP* (2013). At its peak the Mob included A$AP Rocky, A$AP Ferg, A$AP Nast, A$AP Twelvyy, A$AP Ant, and producers including A$AP Lou and Hector Delgado, with A$AP Yams as the curatorial brain. Yams's 2015 death cast a long shadow over the collective's subsequent work.
+A\$AP Mob is a [hip-hop](../overview.md) collective founded in [Harlem](../../../neighborhoods/harlem/overview.md), Manhattan, around 2007 by Steven "A$$AP Yams" Rodriguez alongside A$$AP Bari and A$$AP Illz. The crew rose to mainstream attention in 2011 through breakout member A$$AP Rocky and his viral mixtape *LiveLoveA\$AP* (2011), followed by his major-label debut *Long.Live.A\$AP* (2013). At its peak the Mob included A$$AP Rocky, A$$AP Ferg, A$$AP Nast, A$$AP Twelvyy, A$$AP Ant, and producers including A$$$$AP Lou and Hector Delgado, with A$$AP Yams as the curatorial brain. Yams's 2015 death cast a long shadow over the collective's subsequent work.
 
 ## Formation and Manhattan context
 
-A$AP Yams grew up in Harlem and assembled the collective as a fashion-and-music brotherhood with origins in the housing projects around 145th Street. The "A$AP" prefix denoted "Always Strive and Prosper," and the crew's earliest activity was as much about Tumblr-aesthetic curation — Three 6 Mafia / Memphis chopped-and-screwed influences, '90s designer-fashion homage — as it was about rapping.
+A$$AP Yams grew up in Harlem and assembled the collective as a fashion-and-music brotherhood with origins in the housing projects around 145th Street. The "A$$AP" prefix denoted "Always Strive and Prosper," and the crew's earliest activity was as much about Tumblr-aesthetic curation — Three 6 Mafia / Memphis chopped-and-screwed influences, '90s designer-fashion homage — as it was about rapping.
 
 A$AP Rocky (Rakim Mayers) was the first commercial breakout when his "Peso" video racked up YouTube millions in 2011. He was signed to RCA / Sony for a then-record $3 million deal, and the Mob's center of gravity stayed firmly in [Harlem](../../../neighborhoods/harlem/overview.md) and the wider [hip-hop](../overview.md) New York ecosystem, even as members traveled constantly.
 
@@ -50,3 +50,4 @@ The Mob's impact on [Harlem](../../../neighborhoods/harlem/overview.md) and on N
 
 - Pitchfork, "Long.Live.A$AP" review — [https://pitchfork.com/reviews/albums/17672-asap-rocky-longliveasap/](https://pitchfork.com/reviews/albums/17672-asap-rocky-longliveasap/)
 - NYT, "A$AP Yams, Rapper and Mentor, Dies at 26" — [https://www.nytimes.com/2015/01/19/arts/music/asap-yams-rapper-and-mentor-dies-at-26.html](https://www.nytimes.com/2015/01/19/arts/music/asap-yams-rapper-and-mentor-dies-at-26.html)
+

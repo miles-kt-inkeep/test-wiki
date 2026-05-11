@@ -1,6 +1,197 @@
 {
   "backward": {
+    "neighborhoods/midtown-times-square/overview": [
+      {
+        "source": "genres/disco/artists/chic",
+        "anchor": null,
+        "snippet": "…Across three years and four albums they produced some of the genre's most-covered records — \"Dance, Dance, Dance (Yowsah, Yowsah, Yowsah)\" (1977), \"Le Freak\" (1978), and \"Good Times\" (1979) — and built a production house at the Power Station that outlasted disco itself, going on to shape early-'80s pop for Madonna, David Bowie, Diana Ross, and Sister Sledge."
+      },
+      {
+        "source": "genres/disco/artists/grace-jones",
+        "anchor": null,
+        "snippet": "Midtown and Times Square"
+      },
+      {
+        "source": "genres/disco/overview",
+        "anchor": null,
+        "snippet": "Disco's geography spanned Midtown (Studio 54), SoHo and Hudson Square (the Loft, Paradise Garage), and Chelsea, where gay nightlife concentrated after Stonewall."
+      },
+      {
+        "source": "genres/electronic-dance/overview",
+        "anchor": null,
+        "snippet": "…o and Hudson Square (the Loft, Paradise Garage, Vinyl), and Midtown (Studio 54)."
+      },
+      {
+        "source": "genres/hip-hop/artists/asap-mob",
+        "anchor": null,
+        "snippet": "Midtown / Times Square"
+      },
+      {
+        "source": "genres/hip-hop/overview",
+        "anchor": null,
+        "snippet": "…h Def Jam's offices migrating through Greenwich Village and Midtown over the decades."
+      },
+      {
+        "source": "genres/jazz/artists/wynton-marsalis",
+        "anchor": null,
+        "snippet": "Midtown and Times Square"
+      },
+      {
+        "source": "HOME",
+        "anchor": null,
+        "snippet": "…lage, Greenwich Village, SoHo, Harlem, Chelsea/Meatpacking, Midtown/Times Square"
+      },
+      {
+        "source": "log",
+        "anchor": null,
+        "snippet": "…o, neighborhoods/harlem, neighborhoods/chelsea-meatpacking, neighborhoods/midtown-times-square."
+      },
+      {
+        "source": "neighborhoods/chelsea-meatpacking/overview",
+        "anchor": null,
+        "snippet": "Studio 54 — 254 West 54th, technically Theater District / Midtown, but its cultural cousins lived down here."
+      },
+      {
+        "source": "neighborhoods/harlem/overview",
+        "anchor": null,
+        "snippet": "Midtown and Times Square"
+      },
+      {
+        "source": "neighborhoods/midtown-times-square/venues/studio-54",
+        "anchor": null,
+        "snippet": "Studio 54 was a nightclub at 254 West 54th Street in Midtown / Times Square, open as the original disco from April 26, 1977, to February 4, 1980.…"
+      }
+    ],
+    "genres/electronic-dance/artists/madonna": [
+      {
+        "source": "genres/disco/artists/chic",
+        "anchor": null,
+        "snippet": "…Across three years and four albums they produced some of the genre's most-covered records — \"Dance, Dance, Dance (Yowsah, Yowsah, Yowsah)\" (1977), \"Le Freak\" (1978), and \"Good Times\" (1979) — and built a production house at the Power Station that outlasted disco itself, going on to shape early-'80s pop for Madonna, David Bowie, Diana Ross, and Sister Sledge."
+      },
+      {
+        "source": "genres/disco/artists/grace-jones",
+        "anchor": null,
+        "snippet": "…Her circle overlapped tightly with Andy Warhol's Factory orbit, with Keith Haring (who would body-paint her for the cover of *Island Life*), and with Madonna, whose \"Material Girl\" persona owes a clear debt."
+      },
+      {
+        "source": "genres/disco/artists/larry-levan",
+        "anchor": null,
+        "snippet": "…ance underground: Mancuso at the Loft, Knuckles in Chicago, Madonna and Keith Haring as Garage regulars, the producers at Salsoul, Prelude, and West End records who supplied his crates.…"
+      },
+      {
+        "source": "genres/disco/overview",
+        "anchor": null,
+        "snippet": "…Madonna arrived in the city in 1978 and absorbed the post-disco club sound that would shape her early records."
+      },
+      {
+        "source": "genres/electronic-dance/overview",
+        "anchor": null,
+        "snippet": "Madonna — emerged from the post-disco club scene at Danceteria in 1982 and stayed close to Manhattan dance music for two decades."
+      },
+      {
+        "source": "genres/new-wave/overview",
+        "anchor": null,
+        "snippet": "…Blondie, Talking Heads, and the early career of Madonna anchor the Manhattan version of the genre."
+      },
+      {
+        "source": "HOME",
+        "anchor": null,
+        "snippet": "…Heads, Patti Smith, Television, Sonic Youth, Beastie Boys, Madonna, The Strokes, LCD Soundsystem, Yeah Yeah Yeahs, Interpol, A…"
+      },
+      {
+        "source": "log",
+        "anchor": null,
+        "snippet": "…ists/television, artists/sonic-youth, artists/beastie-boys, artists/madonna, artists/strokes, artists/lcd-soundsystem, artists/yeah-yeah-yeahs, artists/interpol, artists/asap-mob, artists/vampire-weekend, artists/new-york-dolls, neighborhoods/lower-east-side, neighborhoods/east-village, neighborhoods/greenwich-village, neighborhoods/soho, neighborhoods/harlem, neighborhoods/chelsea-meatpacking, neighborhoods/midtown-times-square."
+      },
+      {
+        "source": "neighborhoods/chelsea-meatpacking/overview",
+        "anchor": null,
+        "snippet": "…Danceteria at 30 West 21st Street, opening in 1979, was the multi-floor new wave headquarters where Madonna coat-checked, LCD Soundsystem's spiritual ancestors DJed, and the Beastie Boys played early shows.…"
+      },
+      {
+        "source": "neighborhoods/chelsea-meatpacking/venues/danceteria",
+        "anchor": null,
+        "snippet": "…Founded by Rudolf Piper and Jim Fouratt, it offered a different musical genre on each floor — new wave on one, electronic dance on another, video lounge on a third — and is best remembered as the venue that gave Madonna her first crowd."
+      },
+      {
+        "source": "neighborhoods/east-village/overview",
+        "anchor": null,
+        "snippet": "…The Mudd Club, at 77 White Street, was technically over in SoHo/Tribeca, but the East Village fed it; so did Danceteria up on West 21st in Chelsea, where Madonna coat-checked before she was Madonna.…"
+      },
+      {
+        "source": "neighborhoods/midtown-times-square/overview",
+        "anchor": null,
+        "snippet": "…In that short window it became the global capital of disco, with Blondie, Madonna, Bianca Jagger, Andy Warhol, Liza Minnelli, and Truman Capote among its regulars.…"
+      },
+      {
+        "source": "neighborhoods/soho/overview",
+        "anchor": null,
+        "snippet": "…Madonna went to the Mudd Club; so did Basquiat, Debbie Harry of Blondie, and most of the punk scene on a night off."
+      },
+      {
+        "source": "neighborhoods/soho/venues/paradise-garage",
+        "anchor": null,
+        "snippet": "…artists at the height of their careers, and an early-career Madonna performed there before her major-label breakthrough.…"
+      }
+    ],
+    "neighborhoods/greenwich-village/venues/electric-lady-studios": [
+      {
+        "source": "genres/disco/artists/chic",
+        "anchor": null,
+        "snippet": "…Their first single \"Dance, Dance, Dance\" was cut at the Electric Lady Studios overspill rooms and broke on Manhattan dance floors before national radio caught up.…"
+      },
+      {
+        "source": "genres/post-punk-revival/artists/strokes",
+        "anchor": null,
+        "snippet": "Electric Lady Studios — recorded portions of *Angles* and later albums."
+      },
+      {
+        "source": "genres/post-punk-revival/artists/vampire-weekend",
+        "anchor": null,
+        "snippet": "Electric Lady Studios — recorded *Modern Vampires of the City* (2012–2013)."
+      },
+      {
+        "source": "genres/post-punk-revival/artists/yeah-yeah-yeahs",
+        "anchor": null,
+        "snippet": "Electric Lady Studios — recording sessions for multiple albums."
+      },
+      {
+        "source": "genres/punk-rock/artists/patti-smith",
+        "anchor": null,
+        "snippet": "Electric Lady Studios — recording sessions in the Greenwich Village studio Hendrix built."
+      },
+      {
+        "source": "genres/punk-rock/overview",
+        "anchor": null,
+        "snippet": "…chors were Patti Smith, whose 1975 LP *Horses* (recorded at Electric Lady Studios) fused poetry and three-chord rock, and Television, whose 1977 *Marquee Moon* showcased the scene's more cerebral, guitar-forward wing.…"
+      },
+      {
+        "source": "HOME",
+        "anchor": null,
+        "snippet": "…ercury Lounge, Apollo Theater, Blue Note, Village Vanguard, Electric Lady Studios"
+      },
+      {
+        "source": "log",
+        "anchor": null,
+        "snippet": "…/apollo-theater, venues/blue-note, venues/village-vanguard, venues/electric-lady-studios, artists/ramones, artists/blondie, artists/talking-heads, artists/patti-smith, artists/television, artists/sonic-youth, artists/beastie-boys, artists/madonna, artists/strokes, artists/lcd-soundsystem, artists/yeah-yeah-yeahs, artists/interpol, artists/asap-mob, artists/vampire-weekend, artists/new-york-dolls, neighborhoods/lower-east-side, neighborhoods/east-village, neighborhoods/greenwich-village, neighborhoods/soho, neighborhoods/harlem, neighborhoods/chelsea-meatpacking, neighborhoods/midtown-times-square."
+      },
+      {
+        "source": "neighborhoods/greenwich-village/overview",
+        "anchor": null,
+        "snippet": "…West 8th Street, where Hendrix built Electric Lady Studios in 1970, is the Village's most musically consequential block of pavement."
+      }
+    ],
     "neighborhoods/midtown-times-square/venues/studio-54": [
+      {
+        "source": "genres/disco/artists/chic",
+        "anchor": null,
+        "snippet": "…c origin story is the \"Le Freak\" anecdote: turned away from Studio 54 on New Year's Eve 1977 despite a personal invite from Grace Jones, Rodgers and Edwards went home and wrote a furious \"Aaahh, fuck off!…"
+      },
+      {
+        "source": "genres/disco/artists/grace-jones",
+        "anchor": null,
+        "snippet": "…disco run at Island Records made her a defining face of the Studio 54 era and one of the few Manhattan disco artists whose post-disco reinvention exceeded her disco fame.…"
+      },
       {
         "source": "genres/disco/overview",
         "anchor": null,
@@ -62,7 +253,79 @@
         "snippet": "…It was a Black, Latino, and gay-majority members club where the dance floor — not the door — was the point, and it functioned as the cultural counterweight to Studio 54."
       }
     ],
+    "genres/hip-hop/overview": [
+      {
+        "source": "genres/disco/artists/chic",
+        "anchor": null,
+        "snippet": "…That clarity is why the records still sample-clear today: \"Good Times\" became the bassline foundation for the Sugarhill Gang's \"Rapper's Delight\" (1979), Queen's \"Another One Bites the Dust\" (1980), and a generation of hip-hop and dance records."
+      },
+      {
+        "source": "genres/hip-hop/artists/asap-mob",
+        "anchor": null,
+        "snippet": "A$AP Mob is a hip-hop collective founded in Harlem, Manhattan, around 2007 by Steven \"A$AP Yams\" Rodriguez alongside A$AP Bari and A$AP Illz.…"
+      },
+      {
+        "source": "genres/hip-hop/artists/beastie-boys",
+        "anchor": null,
+        "snippet": "…Across seven studio albums they bridged punk rock, hip-hop, funk, and instrumental jazz, all while maintaining a deeply Manhattan sense of humor.…"
+      },
+      {
+        "source": "genres/punk-rock/artists/blondie",
+        "anchor": null,
+        "snippet": "…Where their peers stayed within the punk rock idiom, Blondie absorbed disco, reggae, girl-group pop, and even early hip-hop, turning the Bowery scene into bona fide top-40 success.…"
+      },
+      {
+        "source": "HOME",
+        "anchor": null,
+        "snippet": "**Genres** — the sounds: punk rock, no wave, disco, hip-hop, new wave, post-punk revival, jazz, electronic dance"
+      },
+      {
+        "source": "log",
+        "anchor": null,
+        "snippet": "…ched: HOME, genres/punk-rock, genres/no-wave, genres/disco, genres/hip-hop, genres/new-wave, genres/post-punk-revival, genres/jazz, genres/electronic-dance, venues/cbgb, venues/maxs-kansas-city, venues/studio-54, venues/paradise-garage, venues/mudd-club, venues/danceteria, venues/knitting-factory, venues/bowery-ballroom, venues/mercury-lounge, venues/apollo-theater, venues/blue-note, venues/village-vanguard, venues/electric-lady-studios, artists/ramones, artists/blondie, artists/talking-heads, artists/patti-smith, artists/television, artists/sonic-youth, artists/beastie-boys, artists/madonna, artists/strokes, artists/lcd-soundsystem, artists/yeah-yeah-yeahs, artists/interpol, artists/asap-mob, artists/vampire-weekend, artists/new-york-dolls, neighborhoods/lower-east-side, neighborhoods/east-village, neighborhoods/greenwich-village, neighborhoods/soho, neighborhoods/harlem, neighborhoods/chelsea-meatpacking, neighborhoods/midtown-times-square."
+      },
+      {
+        "source": "neighborhoods/chelsea-meatpacking/overview",
+        "anchor": null,
+        "snippet": "…els of Steel\" nights, hosting Afrika Bambaataa and bringing hip-hop to a downtown audience.…"
+      },
+      {
+        "source": "neighborhoods/chelsea-meatpacking/venues/danceteria",
+        "anchor": null,
+        "snippet": "Danceteria was a node connecting new wave, no wave, hip-hop, and the downtown art world.…"
+      },
+      {
+        "source": "neighborhoods/harlem/overview",
+        "anchor": null,
+        "snippet": "…It is the single most important neighborhood in the history of Black American music: the jazz capital of the world from the 1920s through the 1950s, the home stage of the Apollo Theater, and, beginning in the 1990s, a steadily growing presence in hip-hop through Mase, Cam'ron and Dipset, and later A$AP Mob."
+      },
+      {
+        "source": "neighborhoods/harlem/venues/apollo-theater",
+        "anchor": null,
+        "snippet": "…Across nearly a century the Apollo has cycled through jazz, R&B, soul, and hip-hop without losing its central place in Harlem's cultural identity."
+      },
+      {
+        "source": "neighborhoods/soho/venues/mudd-club",
+        "anchor": null,
+        "snippet": "…nds like DNA and Mars, post-punk imports from the UK, early hip-hop showcases organized by Fab 5 Freddy, and one-night theme parties that mixed all three audiences.…"
+      }
+    ],
     "neighborhoods/soho/venues/paradise-garage": [
+      {
+        "source": "genres/disco/artists/chic",
+        "anchor": null,
+        "snippet": "Paradise Garage — Larry Levan's room where Chic 12-inches were canon."
+      },
+      {
+        "source": "genres/disco/artists/grace-jones",
+        "anchor": null,
+        "snippet": "Paradise Garage — Larry Levan-era PA appearances with the Compass Point material."
+      },
+      {
+        "source": "genres/disco/artists/larry-levan",
+        "anchor": null,
+        "snippet": "…orn Lawrence Philpot, 1954–1992) was the resident DJ at the Paradise Garage at 84 King Street from its 1977 opening to its 1987 closing — a ten-year residency that defined what a club DJ could be as an artist.…"
+      },
       {
         "source": "genres/disco/overview",
         "anchor": null,
@@ -99,46 +362,51 @@
         "snippet": "…apex of mainstream disco in New York, in the same era that Paradise Garage was developing the deeper, gay, Black, and Latino sound that would feed electronic dance for decades.…"
       }
     ],
-    "genres/electronic-dance/artists/madonna": [
+    "genres/disco/overview": [
       {
-        "source": "genres/disco/overview",
+        "source": "genres/disco/artists/chic",
         "anchor": null,
-        "snippet": "…Madonna arrived in the city in 1978 and absorbed the post-disco club sound that would shape her early records."
+        "snippet": "…The Rock and Roll Hall of Fame nominated Chic eleven times before finally inducting them in 2017 in a special \"Award for Musical Excellence\" category — a delay widely seen as a residual rock-establishment grudge against disco."
+      },
+      {
+        "source": "genres/disco/artists/grace-jones",
+        "anchor": null,
+        "snippet": "…Her influence is most visible downstream — Janelle Monáe, FKA twigs, Rihanna's *Anti* persona — but the through-line is the Studio 54 / Compass Point fusion of disco, Black diasporic music, and high-art performance that she basically invented.…"
+      },
+      {
+        "source": "genres/disco/artists/larry-levan",
+        "anchor": null,
+        "snippet": "…The Garage was a members-only, predominantly Black and Latino, predominantly gay club; Levan's selections crossed disco, gospel, dub, rock, funk, and the proto-house records he would commission himself through his own remixing and production work."
+      },
+      {
+        "source": "genres/electronic-dance/artists/madonna",
+        "anchor": null,
+        "snippet": "disco"
       },
       {
         "source": "genres/electronic-dance/overview",
         "anchor": null,
-        "snippet": "Madonna — emerged from the post-disco club scene at Danceteria in 1982 and stayed close to Manhattan dance music for two decades."
+        "snippet": "…music in Manhattan is the through-line that connects 1970s disco to garage, house, and the 2000s dance-punk of DFA Records.…"
       },
       {
-        "source": "genres/new-wave/overview",
+        "source": "genres/punk-rock/artists/blondie",
         "anchor": null,
-        "snippet": "…Blondie, Talking Heads, and the early career of Madonna anchor the Manhattan version of the genre."
+        "snippet": "…Where their peers stayed within the punk rock idiom, Blondie absorbed disco, reggae, girl-group pop, and even early hip-hop, turning the Bowery scene into bona fide top-40 success.…"
       },
       {
         "source": "HOME",
         "anchor": null,
-        "snippet": "…Heads, Patti Smith, Television, Sonic Youth, Beastie Boys, Madonna, The Strokes, LCD Soundsystem, Yeah Yeah Yeahs, Interpol, A…"
+        "snippet": "**Genres** — the sounds: punk rock, no wave, disco, hip-hop, new wave, post-punk revival, jazz, electronic dan…"
       },
       {
         "source": "log",
         "anchor": null,
-        "snippet": "…ists/television, artists/sonic-youth, artists/beastie-boys, artists/madonna, artists/strokes, artists/lcd-soundsystem, artists/yeah-yeah-yeahs, artists/interpol, artists/asap-mob, artists/vampire-weekend, artists/new-york-dolls, neighborhoods/lower-east-side, neighborhoods/east-village, neighborhoods/greenwich-village, neighborhoods/soho, neighborhoods/harlem, neighborhoods/chelsea-meatpacking, neighborhoods/midtown-times-square."
+        "snippet": "Files touched: HOME, genres/punk-rock, genres/no-wave, genres/disco, genres/hip-hop, genres/new-wave, genres/post-punk-revival, genres/jazz, genres/electronic-dance, venues/cbgb, venues/maxs-kansas-city, venues/studio-54, venues/paradise-garage, venues/mudd-club, venues/danceteria, venues/knitting-factory, venues/bowery-ballroom, venues/mercury-lounge, venues/apollo-theater, venues/blue-note, venues/village-vanguard, venues/electric-lady-studios, artists/ramones, artists/blondie, artists/talking-heads, artists/patti-smith, artists/television, artists/sonic-youth, artists/beastie-boys, artists/madonna, artists/strokes, artists/lcd-soundsystem, artists/yeah-yeah-yeahs, artists/interpol, artists/asap-mob, artists/vampire-weekend, artists/new-york-dolls, neighborhoods/lower-east-side, neighborhoods/east-village, neighborhoods/greenwich-village, neighborhoods/soho, neighborhoods/harlem, neighborhoods/chelsea-meatpacking, neighborhoods/midtown-times-square."
       },
       {
         "source": "neighborhoods/chelsea-meatpacking/overview",
         "anchor": null,
-        "snippet": "…Danceteria at 30 West 21st Street, opening in 1979, was the multi-floor new wave headquarters where Madonna coat-checked, LCD Soundsystem's spiritual ancestors DJed, and the Beastie Boys played early shows.…"
-      },
-      {
-        "source": "neighborhoods/chelsea-meatpacking/venues/danceteria",
-        "anchor": null,
-        "snippet": "…Founded by Rudolf Piper and Jim Fouratt, it offered a different musical genre on each floor — new wave on one, electronic dance on another, video lounge on a third — and is best remembered as the venue that gave Madonna her first crowd."
-      },
-      {
-        "source": "neighborhoods/east-village/overview",
-        "anchor": null,
-        "snippet": "…The Mudd Club, at 77 White Street, was technically over in SoHo/Tribeca, but the East Village fed it; so did Danceteria up on West 21st in Chelsea, where Madonna coat-checked before she was Madonna.…"
+        "snippet": "…It is the spiritual home of New York disco and the first wave of electronic dance culture in America."
       },
       {
         "source": "neighborhoods/midtown-times-square/overview",
@@ -146,14 +414,250 @@
         "snippet": "…In that short window it became the global capital of disco, with Blondie, Madonna, Bianca Jagger, Andy Warhol, Liza Minnelli, and Truman Capote among its regulars.…"
       },
       {
-        "source": "neighborhoods/soho/overview",
+        "source": "neighborhoods/midtown-times-square/venues/studio-54",
         "anchor": null,
-        "snippet": "…Madonna went to the Mudd Club; so did Basquiat, Debbie Harry of Blondie, and most of the punk scene on a night off."
+        "snippet": "…Founded by Steve Rubell and Ian Schrager, it became the global symbol of disco culture, paparazzi-driven celebrity, and the velvet-rope door policy that excluded as much as it admitted.…"
       },
       {
         "source": "neighborhoods/soho/venues/paradise-garage",
         "anchor": null,
-        "snippet": "…artists at the height of their careers, and an early-career Madonna performed there before her major-label breakthrough.…"
+        "snippet": "The club hosted live PAs by disco and early house artists at the height of their careers, and an early-career Madonna performed there before her major-label breakthrough.…"
+      }
+    ],
+    "neighborhoods/soho/venues/mudd-club": [
+      {
+        "source": "genres/disco/artists/grace-jones",
+        "anchor": null,
+        "snippet": "The Mudd Club — downtown crossover during the disco-to-new-wave transition."
+      },
+      {
+        "source": "genres/electronic-dance/artists/madonna",
+        "anchor": null,
+        "snippet": "…tered: Keith Haring, Jean-Michel Basquiat, Futura 2000, the Mudd Club, the Roxy, Paradise Garage.…"
+      },
+      {
+        "source": "genres/hip-hop/artists/beastie-boys",
+        "anchor": null,
+        "snippet": "…1 as a hardcore band playing CBGB's Sunday matinees and the Mudd Club.…"
+      },
+      {
+        "source": "genres/new-wave/overview",
+        "anchor": null,
+        "snippet": "…Its defining Manhattan venues were the Mudd Club at 77 White Street, Danceteria at 30 W.…"
+      },
+      {
+        "source": "genres/no-wave/overview",
+        "anchor": null,
+        "snippet": "…Its key venues were Max's Kansas City, the Mudd Club at 77 White Street, and the loft scene around Artists Space."
+      },
+      {
+        "source": "genres/punk-rock/artists/blondie",
+        "anchor": null,
+        "snippet": "Mudd Club — a Tribeca hangout for Harry and Stein."
+      },
+      {
+        "source": "genres/punk-rock/artists/talking-heads",
+        "anchor": null,
+        "snippet": "Mudd Club — a hangout and occasional performance space during the *Fear of Music* era."
+      },
+      {
+        "source": "HOME",
+        "anchor": null,
+        "snippet": "…rooms: CBGB, Max's Kansas City, Studio 54, Paradise Garage, Mudd Club, Danceteria, Knitting Factory, Bowery Ballroom, Mercury Lou…"
+      },
+      {
+        "source": "log",
+        "anchor": null,
+        "snippet": "…maxs-kansas-city, venues/studio-54, venues/paradise-garage, venues/mudd-club, venues/danceteria, venues/knitting-factory, venues/bowery-ballroom, venues/mercury-lounge, venues/apollo-theater, venues/blue-note, venues/village-vanguard, venues/electric-lady-studios, artists/ramones, artists/blondie, artists/talking-heads, artists/patti-smith, artists/television, artists/sonic-youth, artists/beastie-boys, artists/madonna, artists/strokes, artists/lcd-soundsystem, artists/yeah-yeah-yeahs, artists/interpol, artists/asap-mob, artists/vampire-weekend, artists/new-york-dolls, neighborhoods/lower-east-side, neighborhoods/east-village, neighborhoods/greenwich-village, neighborhoods/soho, neighborhoods/harlem, neighborhoods/chelsea-meatpacking, neighborhoods/midtown-times-square."
+      },
+      {
+        "source": "neighborhoods/chelsea-meatpacking/venues/danceteria",
+        "anchor": null,
+        "snippet": "Mudd Club"
+      },
+      {
+        "source": "neighborhoods/east-village/overview",
+        "anchor": null,
+        "snippet": "…The Mudd Club, at 77 White Street, was technically over in SoHo/Tribeca, but the East Village fed it; so did Danceteria up on West 21st in Chelsea, where Madonna coat-checked before she was Madonna.…"
+      },
+      {
+        "source": "neighborhoods/greenwich-village/venues/maxs-kansas-city",
+        "anchor": null,
+        "snippet": "Mudd Club"
+      },
+      {
+        "source": "neighborhoods/soho/overview",
+        "anchor": null,
+        "snippet": "…The Mudd Club, just south on White Street in what is technically Tribeca, served as the scene's public face."
+      },
+      {
+        "source": "neighborhoods/soho/venues/knitting-factory",
+        "anchor": null,
+        "snippet": "…Its programming routinely linked free jazz lineages from the Village Vanguard tradition to the no wave descendants who came of age at the Mudd Club."
+      }
+    ],
+    "genres/electronic-dance/overview": [
+      {
+        "source": "genres/disco/artists/grace-jones",
+        "anchor": null,
+        "snippet": "electronic dance"
+      },
+      {
+        "source": "genres/disco/artists/larry-levan",
+        "anchor": null,
+        "snippet": "…\" The electronic dance lineage in Manhattan begins with him."
+      },
+      {
+        "source": "genres/disco/overview",
+        "anchor": null,
+        "snippet": "…But the music never actually died — it splintered into Levan's \"garage\" sound, Knuckles's Chicago house, and the electronic dance lineage that runs through the Paradise Garage into modern club culture.…"
+      },
+      {
+        "source": "genres/electronic-dance/artists/madonna",
+        "anchor": null,
+        "snippet": "…She has not been a Manhattan-scene artist for decades, but those years are foundational to the city's electronic dance and pop history."
+      },
+      {
+        "source": "genres/post-punk-revival/artists/lcd-soundsystem",
+        "anchor": null,
+        "snippet": "…Across three studio albums in the original 2002–2011 run — *LCD Soundsystem* (2005), *Sound of Silver* (2007), and *This Is Happening* (2010) — Murphy distilled a specifically New York anxiety about scenes, aging, and authenticity into electronic dance-rock anthems.…"
+      },
+      {
+        "source": "genres/post-punk-revival/overview",
+        "anchor": null,
+        "snippet": "Electronic dance music in Manhattan"
+      },
+      {
+        "source": "HOME",
+        "anchor": null,
+        "snippet": "…no wave, disco, hip-hop, new wave, post-punk revival, jazz, electronic dance"
+      },
+      {
+        "source": "log",
+        "anchor": null,
+        "snippet": "…op, genres/new-wave, genres/post-punk-revival, genres/jazz, genres/electronic-dance, venues/cbgb, venues/maxs-kansas-city, venues/studio-54, venues/paradise-garage, venues/mudd-club, venues/danceteria, venues/knitting-factory, venues/bowery-ballroom, venues/mercury-lounge, venues/apollo-theater, venues/blue-note, venues/village-vanguard, venues/electric-lady-studios, artists/ramones, artists/blondie, artists/talking-heads, artists/patti-smith, artists/television, artists/sonic-youth, artists/beastie-boys, artists/madonna, artists/strokes, artists/lcd-soundsystem, artists/yeah-yeah-yeahs, artists/interpol, artists/asap-mob, artists/vampire-weekend, artists/new-york-dolls, neighborhoods/lower-east-side, neighborhoods/east-village, neighborhoods/greenwich-village, neighborhoods/soho, neighborhoods/harlem, neighborhoods/chelsea-meatpacking, neighborhoods/midtown-times-square."
+      },
+      {
+        "source": "neighborhoods/chelsea-meatpacking/overview",
+        "anchor": null,
+        "snippet": "…It is the spiritual home of New York disco and the first wave of electronic dance culture in America."
+      },
+      {
+        "source": "neighborhoods/chelsea-meatpacking/venues/danceteria",
+        "anchor": null,
+        "snippet": "…Founded by Rudolf Piper and Jim Fouratt, it offered a different musical genre on each floor — new wave on one, electronic dance on another, video lounge on a third — and is best remembered as the venue that gave Madonna her first crowd."
+      },
+      {
+        "source": "neighborhoods/midtown-times-square/venues/studio-54",
+        "anchor": null,
+        "snippet": "…ng the deeper, gay, Black, and Latino sound that would feed electronic dance for decades.…"
+      },
+      {
+        "source": "neighborhoods/soho/venues/paradise-garage",
+        "anchor": null,
+        "snippet": "…Built inside a former parking garage by Michael Brody, the club centered on resident DJ Larry Levan, whose 10-hour Saturday-night sets became the founding text for modern electronic dance.…"
+      }
+    ],
+    "neighborhoods/soho/overview": [
+      {
+        "source": "genres/disco/artists/larry-levan",
+        "anchor": null,
+        "snippet": "…got his early DJ education at Nicky Siano's the Gallery in SoHo, and at the Continental Baths alongside his close friend Frankie Knuckles in the early 1970s.…"
+      },
+      {
+        "source": "genres/disco/overview",
+        "anchor": null,
+        "snippet": "Disco's geography spanned Midtown (Studio 54), SoHo and Hudson Square (the Loft, Paradise Garage), and Chelsea, where gay nightlife concentrated after Stonewall."
+      },
+      {
+        "source": "genres/electronic-dance/artists/madonna",
+        "anchor": null,
+        "snippet": "…irst Manhattan residence was a series of crash-pad lofts in SoHo, the East Village, and Times Square.…"
+      },
+      {
+        "source": "genres/electronic-dance/overview",
+        "anchor": null,
+        "snippet": "…tly in Chelsea / Meatpacking (Sound Factory, Twilo, Cielo), SoHo and Hudson Square (the Loft, Paradise Garage, Vinyl), and Midtown (Studio 54)."
+      },
+      {
+        "source": "genres/hip-hop/artists/beastie-boys",
+        "anchor": null,
+        "snippet": "…an, their working life happened across the Lower East Side, SoHo lofts, and the Mudd Club / Danceteria circuit."
+      },
+      {
+        "source": "genres/jazz/artists/ornette-coleman",
+        "anchor": null,
+        "snippet": "He bought a building at 131 Prince Street in SoHo in the late 1960s and ran it as Artists House — performance space, residence, rehearsal hub — for several years before the lease economics ended that experiment.…"
+      },
+      {
+        "source": "genres/jazz/artists/sam-rivers",
+        "anchor": null,
+        "snippet": "…family rented a 5,000-square-foot loft at 24 Bond Street in SoHo, set up a performance space and rehearsal rooms, and started programming five or six nights of music a week.…"
+      },
+      {
+        "source": "genres/jazz/overview",
+        "anchor": null,
+        "snippet": "In SoHo, a parallel \"loft jazz\" movement bloomed from 1972 onward at Sam Rivers's Studio Rivbea (24 Bond Street), Ornette Coleman's Artists House, Rashied Ali's Ali's Alley, and Joe Lee Wilson's Ladies' Fort.…"
+      },
+      {
+        "source": "genres/new-wave/overview",
+        "anchor": null,
+        "snippet": "New wave lived in the East Village, Chelsea, and SoHo, with the artworld crossover concentrated around the Mudd Club in Tribeca."
+      },
+      {
+        "source": "genres/no-wave/artists/sonic-youth",
+        "anchor": null,
+        "snippet": "…Their first performance was at the Noise Festival in June 1981 at White Columns gallery in SoHo, an event Moore co-curated."
+      },
+      {
+        "source": "genres/no-wave/overview",
+        "anchor": null,
+        "snippet": "…m scene that ran from roughly 1977 to 1982, concentrated in SoHo lofts and Lower East Side clubs.…"
+      },
+      {
+        "source": "HOME",
+        "anchor": null,
+        "snippet": "…ddresses: Lower East Side, East Village, Greenwich Village, SoHo, Harlem, Chelsea/Meatpacking, Midtown/Times Square"
+      },
+      {
+        "source": "log",
+        "anchor": null,
+        "snippet": "…eighborhoods/east-village, neighborhoods/greenwich-village, neighborhoods/soho, neighborhoods/harlem, neighborhoods/chelsea-meatpacking, neighborhoods/midtown-times-square."
+      },
+      {
+        "source": "neighborhoods/chelsea-meatpacking/overview",
+        "anchor": null,
+        "snippet": "…Together with the adjacent Hudson Square / west SoHo edge, this strip of West Side warehouse blocks inherited the late-1970s and 1980s club legacy of New York: Paradise Garage, Limelight, the Roxy, and Danceteria all operated within a few avenues of each other.…"
+      },
+      {
+        "source": "neighborhoods/east-village/overview",
+        "anchor": null,
+        "snippet": "…The Mudd Club, at 77 White Street, was technically over in SoHo/Tribeca, but the East Village fed it; so did Danceteria up on West 21st in Chelsea, where Madonna coat-checked before she was Madonna.…"
+      },
+      {
+        "source": "neighborhoods/greenwich-village/overview",
+        "anchor": null,
+        "snippet": "SoHo"
+      },
+      {
+        "source": "neighborhoods/lower-east-side/overview",
+        "anchor": null,
+        "snippet": "…matinee tradition, while no wave and art-rock pulled toward SoHo lofts.…"
+      },
+      {
+        "source": "neighborhoods/midtown-times-square/overview",
+        "anchor": null,
+        "snippet": "…Where the Lower East Side and SoHo supplied the scenes, Midtown supplied the stages — the rooms big enough and central enough to host the artists once they had broken through."
+      },
+      {
+        "source": "neighborhoods/soho/venues/mudd-club",
+        "anchor": null,
+        "snippet": "…tory nightclub at 77 White Street in Tribeca, just south of SoHo, that operated from October 31, 1978, to 1983.…"
+      },
+      {
+        "source": "neighborhoods/soho/venues/paradise-garage",
+        "anchor": null,
+        "snippet": "…adise Garage was a private discotheque at 84 King Street in SoHo that operated from 1977 to September 26, 1987.…"
       }
     ],
     "neighborhoods/chelsea-meatpacking/venues/danceteria": [
@@ -223,138 +727,40 @@
         "snippet": "Danceteria"
       }
     ],
-    "neighborhoods/midtown-times-square/overview": [
+    "genres/disco/artists/chic": [
       {
         "source": "genres/disco/overview",
         "anchor": null,
-        "snippet": "Disco's geography spanned Midtown (Studio 54), SoHo and Hudson Square (the Loft, Paradise Garage), and Chelsea, where gay nightlife concentrated after Stonewall."
-      },
-      {
-        "source": "genres/electronic-dance/overview",
-        "anchor": null,
-        "snippet": "…o and Hudson Square (the Loft, Paradise Garage, Vinyl), and Midtown (Studio 54)."
-      },
-      {
-        "source": "genres/hip-hop/artists/asap-mob",
-        "anchor": null,
-        "snippet": "Midtown / Times Square"
-      },
-      {
-        "source": "genres/hip-hop/overview",
-        "anchor": null,
-        "snippet": "…h Def Jam's offices migrating through Greenwich Village and Midtown over the decades."
-      },
-      {
-        "source": "HOME",
-        "anchor": null,
-        "snippet": "…lage, Greenwich Village, SoHo, Harlem, Chelsea/Meatpacking, Midtown/Times Square"
+        "snippet": "Chic — Nile Rodgers and Bernard Edwards' Power Station band, the architects of \"Le Freak\" and \"Good Times\" and the in-house sound of Manhattan disco's commercial peak."
       },
       {
         "source": "log",
         "anchor": null,
-        "snippet": "…o, neighborhoods/harlem, neighborhoods/chelsea-meatpacking, neighborhoods/midtown-times-square."
-      },
-      {
-        "source": "neighborhoods/chelsea-meatpacking/overview",
-        "anchor": null,
-        "snippet": "Studio 54 — 254 West 54th, technically Theater District / Midtown, but its cultural cousins lived down here."
-      },
-      {
-        "source": "neighborhoods/harlem/overview",
-        "anchor": null,
-        "snippet": "Midtown and Times Square"
-      },
-      {
-        "source": "neighborhoods/midtown-times-square/venues/studio-54",
-        "anchor": null,
-        "snippet": "Studio 54 was a nightclub at 254 West 54th Street in Midtown / Times Square, open as the original disco from April 26, 1977, to February 4, 1980.…"
+        "snippet": "Files touched: genres/disco/artists/chic, genres/disco/artists/grace-jones, genres/disco/artists/larry-levan, genres/disco/overview."
       }
     ],
-    "neighborhoods/soho/overview": [
+    "genres/disco/artists/grace-jones": [
       {
         "source": "genres/disco/overview",
         "anchor": null,
-        "snippet": "Disco's geography spanned Midtown (Studio 54), SoHo and Hudson Square (the Loft, Paradise Garage), and Chelsea, where gay nightlife concentrated after Stonewall."
-      },
-      {
-        "source": "genres/electronic-dance/artists/madonna",
-        "anchor": null,
-        "snippet": "…irst Manhattan residence was a series of crash-pad lofts in SoHo, the East Village, and Times Square.…"
-      },
-      {
-        "source": "genres/electronic-dance/overview",
-        "anchor": null,
-        "snippet": "…tly in Chelsea / Meatpacking (Sound Factory, Twilo, Cielo), SoHo and Hudson Square (the Loft, Paradise Garage, Vinyl), and Midtown (Studio 54)."
-      },
-      {
-        "source": "genres/hip-hop/artists/beastie-boys",
-        "anchor": null,
-        "snippet": "…an, their working life happened across the Lower East Side, SoHo lofts, and the Mudd Club / Danceteria circuit."
-      },
-      {
-        "source": "genres/jazz/overview",
-        "anchor": null,
-        "snippet": "In SoHo, a parallel \"loft jazz\" movement bloomed from 1972 onward at Sam Rivers's Studio Rivbea (24 Bond Street), Ornette Coleman's Artists House, Rashied Ali's Ali's Alley, and Joe Lee Wilson's Ladies' Fort.…"
-      },
-      {
-        "source": "genres/new-wave/overview",
-        "anchor": null,
-        "snippet": "New wave lived in the East Village, Chelsea, and SoHo, with the artworld crossover concentrated around the Mudd Club in Tribeca."
-      },
-      {
-        "source": "genres/no-wave/artists/sonic-youth",
-        "anchor": null,
-        "snippet": "…Their first performance was at the Noise Festival in June 1981 at White Columns gallery in SoHo, an event Moore co-curated."
-      },
-      {
-        "source": "genres/no-wave/overview",
-        "anchor": null,
-        "snippet": "…m scene that ran from roughly 1977 to 1982, concentrated in SoHo lofts and Lower East Side clubs.…"
-      },
-      {
-        "source": "HOME",
-        "anchor": null,
-        "snippet": "…ddresses: Lower East Side, East Village, Greenwich Village, SoHo, Harlem, Chelsea/Meatpacking, Midtown/Times Square"
+        "snippet": "Grace Jones — Studio 54 fixture and Tom Moulton-produced Island Records artist whose late-1970s disco trilogy bridged into the Compass Point reinvention."
       },
       {
         "source": "log",
         "anchor": null,
-        "snippet": "…eighborhoods/east-village, neighborhoods/greenwich-village, neighborhoods/soho, neighborhoods/harlem, neighborhoods/chelsea-meatpacking, neighborhoods/midtown-times-square."
+        "snippet": "Files touched: genres/disco/artists/chic, genres/disco/artists/grace-jones, genres/disco/artists/larry-levan, genres/disco/overview."
+      }
+    ],
+    "genres/disco/artists/larry-levan": [
+      {
+        "source": "genres/disco/overview",
+        "anchor": null,
+        "snippet": "Larry Levan — Paradise Garage resident from 1977 to 1987; the namesake of \"garage\" music and the patron saint of the Manhattan dance floor."
       },
       {
-        "source": "neighborhoods/chelsea-meatpacking/overview",
+        "source": "log",
         "anchor": null,
-        "snippet": "…Together with the adjacent Hudson Square / west SoHo edge, this strip of West Side warehouse blocks inherited the late-1970s and 1980s club legacy of New York: Paradise Garage, Limelight, the Roxy, and Danceteria all operated within a few avenues of each other.…"
-      },
-      {
-        "source": "neighborhoods/east-village/overview",
-        "anchor": null,
-        "snippet": "…The Mudd Club, at 77 White Street, was technically over in SoHo/Tribeca, but the East Village fed it; so did Danceteria up on West 21st in Chelsea, where Madonna coat-checked before she was Madonna.…"
-      },
-      {
-        "source": "neighborhoods/greenwich-village/overview",
-        "anchor": null,
-        "snippet": "SoHo"
-      },
-      {
-        "source": "neighborhoods/lower-east-side/overview",
-        "anchor": null,
-        "snippet": "…matinee tradition, while no wave and art-rock pulled toward SoHo lofts.…"
-      },
-      {
-        "source": "neighborhoods/midtown-times-square/overview",
-        "anchor": null,
-        "snippet": "…Where the Lower East Side and SoHo supplied the scenes, Midtown supplied the stages — the rooms big enough and central enough to host the artists once they had broken through."
-      },
-      {
-        "source": "neighborhoods/soho/venues/mudd-club",
-        "anchor": null,
-        "snippet": "…tory nightclub at 77 White Street in Tribeca, just south of SoHo, that operated from October 31, 1978, to 1983.…"
-      },
-      {
-        "source": "neighborhoods/soho/venues/paradise-garage",
-        "anchor": null,
-        "snippet": "…adise Garage was a private discotheque at 84 King Street in SoHo that operated from 1977 to September 26, 1987.…"
+        "snippet": "…enres/disco/artists/chic, genres/disco/artists/grace-jones, genres/disco/artists/larry-levan, genres/disco/overview."
       }
     ],
     "neighborhoods/chelsea-meatpacking/overview": [
@@ -407,58 +813,6 @@
         "source": "neighborhoods/soho/overview",
         "anchor": null,
         "snippet": "Chelsea and the Meatpacking District"
-      }
-    ],
-    "genres/electronic-dance/overview": [
-      {
-        "source": "genres/disco/overview",
-        "anchor": null,
-        "snippet": "…But the music never actually died — it splintered into Levan's \"garage\" sound, Knuckles's Chicago house, and the electronic dance lineage that runs through the Paradise Garage into modern club culture.…"
-      },
-      {
-        "source": "genres/electronic-dance/artists/madonna",
-        "anchor": null,
-        "snippet": "…She has not been a Manhattan-scene artist for decades, but those years are foundational to the city's electronic dance and pop history."
-      },
-      {
-        "source": "genres/post-punk-revival/artists/lcd-soundsystem",
-        "anchor": null,
-        "snippet": "…Across three studio albums in the original 2002–2011 run — *LCD Soundsystem* (2005), *Sound of Silver* (2007), and *This Is Happening* (2010) — Murphy distilled a specifically New York anxiety about scenes, aging, and authenticity into electronic dance-rock anthems.…"
-      },
-      {
-        "source": "genres/post-punk-revival/overview",
-        "anchor": null,
-        "snippet": "Electronic dance music in Manhattan"
-      },
-      {
-        "source": "HOME",
-        "anchor": null,
-        "snippet": "…no wave, disco, hip-hop, new wave, post-punk revival, jazz, electronic dance"
-      },
-      {
-        "source": "log",
-        "anchor": null,
-        "snippet": "…op, genres/new-wave, genres/post-punk-revival, genres/jazz, genres/electronic-dance, venues/cbgb, venues/maxs-kansas-city, venues/studio-54, venues/paradise-garage, venues/mudd-club, venues/danceteria, venues/knitting-factory, venues/bowery-ballroom, venues/mercury-lounge, venues/apollo-theater, venues/blue-note, venues/village-vanguard, venues/electric-lady-studios, artists/ramones, artists/blondie, artists/talking-heads, artists/patti-smith, artists/television, artists/sonic-youth, artists/beastie-boys, artists/madonna, artists/strokes, artists/lcd-soundsystem, artists/yeah-yeah-yeahs, artists/interpol, artists/asap-mob, artists/vampire-weekend, artists/new-york-dolls, neighborhoods/lower-east-side, neighborhoods/east-village, neighborhoods/greenwich-village, neighborhoods/soho, neighborhoods/harlem, neighborhoods/chelsea-meatpacking, neighborhoods/midtown-times-square."
-      },
-      {
-        "source": "neighborhoods/chelsea-meatpacking/overview",
-        "anchor": null,
-        "snippet": "…It is the spiritual home of New York disco and the first wave of electronic dance culture in America."
-      },
-      {
-        "source": "neighborhoods/chelsea-meatpacking/venues/danceteria",
-        "anchor": null,
-        "snippet": "…Founded by Rudolf Piper and Jim Fouratt, it offered a different musical genre on each floor — new wave on one, electronic dance on another, video lounge on a third — and is best remembered as the venue that gave Madonna her first crowd."
-      },
-      {
-        "source": "neighborhoods/midtown-times-square/venues/studio-54",
-        "anchor": null,
-        "snippet": "…ng the deeper, gay, Black, and Latino sound that would feed electronic dance for decades.…"
-      },
-      {
-        "source": "neighborhoods/soho/venues/paradise-garage",
-        "anchor": null,
-        "snippet": "…Built inside a former parking garage by Michael Brody, the club centered on resident DJ Larry Levan, whose 10-hour Saturday-night sets became the founding text for modern electronic dance.…"
       }
     ],
     "genres/new-wave/overview": [
@@ -617,6 +971,16 @@
         "snippet": "…ttan residence was a series of crash-pad lofts in SoHo, the East Village, and Times Square.…"
       },
       {
+        "source": "genres/jazz/artists/john-zorn",
+        "anchor": null,
+        "snippet": "…Louis after two years, and moved into a tenement on East 6th Street in the East Village in 1975.…"
+      },
+      {
+        "source": "genres/jazz/artists/ornette-coleman",
+        "anchor": null,
+        "snippet": "…His arrival at the Five Spot Café in the East Village for a six-week stand in November 1959 is the conventional starting point for the free jazz era; the band's run was extended to ten weeks under Atlantic Records' watch, and *The Shape of Jazz to Come* (recorded that year) became one of the most-discussed jazz LPs of the next half-decade."
+      },
+      {
         "source": "genres/new-wave/overview",
         "anchor": null,
         "snippet": "New wave lived in the East Village, Chelsea, and SoHo, with the artworld crossover concentrated around the Mudd Club in Tribeca."
@@ -690,73 +1054,6 @@
         "source": "neighborhoods/soho/overview",
         "anchor": null,
         "snippet": "…The Mudd Club, opened by Steve Mass in 1978, was the after-hours alternative to Studio 54: downtown, art-friendly, and a scene shared with the East Village and Tribeca.…"
-      }
-    ],
-    "neighborhoods/soho/venues/mudd-club": [
-      {
-        "source": "genres/electronic-dance/artists/madonna",
-        "anchor": null,
-        "snippet": "…tered: Keith Haring, Jean-Michel Basquiat, Futura 2000, the Mudd Club, the Roxy, Paradise Garage.…"
-      },
-      {
-        "source": "genres/hip-hop/artists/beastie-boys",
-        "anchor": null,
-        "snippet": "…1 as a hardcore band playing CBGB's Sunday matinees and the Mudd Club.…"
-      },
-      {
-        "source": "genres/new-wave/overview",
-        "anchor": null,
-        "snippet": "…Its defining Manhattan venues were the Mudd Club at 77 White Street, Danceteria at 30 W.…"
-      },
-      {
-        "source": "genres/no-wave/overview",
-        "anchor": null,
-        "snippet": "…Its key venues were Max's Kansas City, the Mudd Club at 77 White Street, and the loft scene around Artists Space."
-      },
-      {
-        "source": "genres/punk-rock/artists/blondie",
-        "anchor": null,
-        "snippet": "Mudd Club — a Tribeca hangout for Harry and Stein."
-      },
-      {
-        "source": "genres/punk-rock/artists/talking-heads",
-        "anchor": null,
-        "snippet": "Mudd Club — a hangout and occasional performance space during the *Fear of Music* era."
-      },
-      {
-        "source": "HOME",
-        "anchor": null,
-        "snippet": "…rooms: CBGB, Max's Kansas City, Studio 54, Paradise Garage, Mudd Club, Danceteria, Knitting Factory, Bowery Ballroom, Mercury Lou…"
-      },
-      {
-        "source": "log",
-        "anchor": null,
-        "snippet": "…maxs-kansas-city, venues/studio-54, venues/paradise-garage, venues/mudd-club, venues/danceteria, venues/knitting-factory, venues/bowery-ballroom, venues/mercury-lounge, venues/apollo-theater, venues/blue-note, venues/village-vanguard, venues/electric-lady-studios, artists/ramones, artists/blondie, artists/talking-heads, artists/patti-smith, artists/television, artists/sonic-youth, artists/beastie-boys, artists/madonna, artists/strokes, artists/lcd-soundsystem, artists/yeah-yeah-yeahs, artists/interpol, artists/asap-mob, artists/vampire-weekend, artists/new-york-dolls, neighborhoods/lower-east-side, neighborhoods/east-village, neighborhoods/greenwich-village, neighborhoods/soho, neighborhoods/harlem, neighborhoods/chelsea-meatpacking, neighborhoods/midtown-times-square."
-      },
-      {
-        "source": "neighborhoods/chelsea-meatpacking/venues/danceteria",
-        "anchor": null,
-        "snippet": "Mudd Club"
-      },
-      {
-        "source": "neighborhoods/east-village/overview",
-        "anchor": null,
-        "snippet": "…The Mudd Club, at 77 White Street, was technically over in SoHo/Tribeca, but the East Village fed it; so did Danceteria up on West 21st in Chelsea, where Madonna coat-checked before she was Madonna.…"
-      },
-      {
-        "source": "neighborhoods/greenwich-village/venues/maxs-kansas-city",
-        "anchor": null,
-        "snippet": "Mudd Club"
-      },
-      {
-        "source": "neighborhoods/soho/overview",
-        "anchor": null,
-        "snippet": "…The Mudd Club, just south on White Street in what is technically Tribeca, served as the scene's public face."
-      },
-      {
-        "source": "neighborhoods/soho/venues/knitting-factory",
-        "anchor": null,
-        "snippet": "…Its programming routinely linked free jazz lineages from the Village Vanguard tradition to the no wave descendants who came of age at the Mudd Club."
       }
     ],
     "neighborhoods/lower-east-side/overview": [
@@ -879,53 +1176,6 @@
         "source": "neighborhoods/soho/overview",
         "anchor": null,
         "snippet": "Lower East Side"
-      }
-    ],
-    "genres/disco/overview": [
-      {
-        "source": "genres/electronic-dance/artists/madonna",
-        "anchor": null,
-        "snippet": "disco"
-      },
-      {
-        "source": "genres/electronic-dance/overview",
-        "anchor": null,
-        "snippet": "…music in Manhattan is the through-line that connects 1970s disco to garage, house, and the 2000s dance-punk of DFA Records.…"
-      },
-      {
-        "source": "genres/punk-rock/artists/blondie",
-        "anchor": null,
-        "snippet": "…Where their peers stayed within the punk rock idiom, Blondie absorbed disco, reggae, girl-group pop, and even early hip-hop, turning the Bowery scene into bona fide top-40 success.…"
-      },
-      {
-        "source": "HOME",
-        "anchor": null,
-        "snippet": "**Genres** — the sounds: punk rock, no wave, disco, hip-hop, new wave, post-punk revival, jazz, electronic dan…"
-      },
-      {
-        "source": "log",
-        "anchor": null,
-        "snippet": "Files touched: HOME, genres/punk-rock, genres/no-wave, genres/disco, genres/hip-hop, genres/new-wave, genres/post-punk-revival, genres/jazz, genres/electronic-dance, venues/cbgb, venues/maxs-kansas-city, venues/studio-54, venues/paradise-garage, venues/mudd-club, venues/danceteria, venues/knitting-factory, venues/bowery-ballroom, venues/mercury-lounge, venues/apollo-theater, venues/blue-note, venues/village-vanguard, venues/electric-lady-studios, artists/ramones, artists/blondie, artists/talking-heads, artists/patti-smith, artists/television, artists/sonic-youth, artists/beastie-boys, artists/madonna, artists/strokes, artists/lcd-soundsystem, artists/yeah-yeah-yeahs, artists/interpol, artists/asap-mob, artists/vampire-weekend, artists/new-york-dolls, neighborhoods/lower-east-side, neighborhoods/east-village, neighborhoods/greenwich-village, neighborhoods/soho, neighborhoods/harlem, neighborhoods/chelsea-meatpacking, neighborhoods/midtown-times-square."
-      },
-      {
-        "source": "neighborhoods/chelsea-meatpacking/overview",
-        "anchor": null,
-        "snippet": "…It is the spiritual home of New York disco and the first wave of electronic dance culture in America."
-      },
-      {
-        "source": "neighborhoods/midtown-times-square/overview",
-        "anchor": null,
-        "snippet": "…In that short window it became the global capital of disco, with Blondie, Madonna, Bianca Jagger, Andy Warhol, Liza Minnelli, and Truman Capote among its regulars.…"
-      },
-      {
-        "source": "neighborhoods/midtown-times-square/venues/studio-54",
-        "anchor": null,
-        "snippet": "…Founded by Steve Rubell and Ian Schrager, it became the global symbol of disco culture, paparazzi-driven celebrity, and the velvet-rope door policy that excluded as much as it admitted.…"
-      },
-      {
-        "source": "neighborhoods/soho/venues/paradise-garage",
-        "anchor": null,
-        "snippet": "The club hosted live PAs by disco and early house artists at the height of their careers, and an early-career Madonna performed there before her major-label breakthrough.…"
       }
     ],
     "genres/post-punk-revival/artists/lcd-soundsystem": [
@@ -1082,58 +1332,6 @@
         "snippet": "…Outside the post-punk revival, the room has hosted hip-hop showcases, alt-country anchors like Lucinda Williams's surprise appearances, and early-career sets by Sharon Van Etten and Mitski."
       }
     ],
-    "genres/hip-hop/overview": [
-      {
-        "source": "genres/hip-hop/artists/asap-mob",
-        "anchor": null,
-        "snippet": "A$AP Mob is a hip-hop collective founded in Harlem, Manhattan, around 2007 by Steven \"A$AP Yams\" Rodriguez alongside A$AP Bari and A$AP Illz.…"
-      },
-      {
-        "source": "genres/hip-hop/artists/beastie-boys",
-        "anchor": null,
-        "snippet": "…Across seven studio albums they bridged punk rock, hip-hop, funk, and instrumental jazz, all while maintaining a deeply Manhattan sense of humor.…"
-      },
-      {
-        "source": "genres/punk-rock/artists/blondie",
-        "anchor": null,
-        "snippet": "…Where their peers stayed within the punk rock idiom, Blondie absorbed disco, reggae, girl-group pop, and even early hip-hop, turning the Bowery scene into bona fide top-40 success.…"
-      },
-      {
-        "source": "HOME",
-        "anchor": null,
-        "snippet": "**Genres** — the sounds: punk rock, no wave, disco, hip-hop, new wave, post-punk revival, jazz, electronic dance"
-      },
-      {
-        "source": "log",
-        "anchor": null,
-        "snippet": "…ched: HOME, genres/punk-rock, genres/no-wave, genres/disco, genres/hip-hop, genres/new-wave, genres/post-punk-revival, genres/jazz, genres/electronic-dance, venues/cbgb, venues/maxs-kansas-city, venues/studio-54, venues/paradise-garage, venues/mudd-club, venues/danceteria, venues/knitting-factory, venues/bowery-ballroom, venues/mercury-lounge, venues/apollo-theater, venues/blue-note, venues/village-vanguard, venues/electric-lady-studios, artists/ramones, artists/blondie, artists/talking-heads, artists/patti-smith, artists/television, artists/sonic-youth, artists/beastie-boys, artists/madonna, artists/strokes, artists/lcd-soundsystem, artists/yeah-yeah-yeahs, artists/interpol, artists/asap-mob, artists/vampire-weekend, artists/new-york-dolls, neighborhoods/lower-east-side, neighborhoods/east-village, neighborhoods/greenwich-village, neighborhoods/soho, neighborhoods/harlem, neighborhoods/chelsea-meatpacking, neighborhoods/midtown-times-square."
-      },
-      {
-        "source": "neighborhoods/chelsea-meatpacking/overview",
-        "anchor": null,
-        "snippet": "…els of Steel\" nights, hosting Afrika Bambaataa and bringing hip-hop to a downtown audience.…"
-      },
-      {
-        "source": "neighborhoods/chelsea-meatpacking/venues/danceteria",
-        "anchor": null,
-        "snippet": "Danceteria was a node connecting new wave, no wave, hip-hop, and the downtown art world.…"
-      },
-      {
-        "source": "neighborhoods/harlem/overview",
-        "anchor": null,
-        "snippet": "…It is the single most important neighborhood in the history of Black American music: the jazz capital of the world from the 1920s through the 1950s, the home stage of the Apollo Theater, and, beginning in the 1990s, a steadily growing presence in hip-hop through Mase, Cam'ron and Dipset, and later A$AP Mob."
-      },
-      {
-        "source": "neighborhoods/harlem/venues/apollo-theater",
-        "anchor": null,
-        "snippet": "…Across nearly a century the Apollo has cycled through jazz, R&B, soul, and hip-hop without losing its central place in Harlem's cultural identity."
-      },
-      {
-        "source": "neighborhoods/soho/venues/mudd-club",
-        "anchor": null,
-        "snippet": "…nds like DNA and Mars, post-punk imports from the UK, early hip-hop showcases organized by Fab 5 Freddy, and one-night theme parties that mixed all three audiences.…"
-      }
-    ],
     "neighborhoods/harlem/overview": [
       {
         "source": "genres/hip-hop/artists/asap-mob",
@@ -1144,6 +1342,11 @@
         "source": "genres/hip-hop/overview",
         "anchor": null,
         "snippet": "…Def Jam Recordings — founded in Rick Rubin's NYU dorm room in 1984 — gave the genre its first major commercial home; the Beastie Boys gave it a downtown crossover; and Harlem supplied wave after wave of artists from Big L and Cam'ron through A$AP Mob.…"
+      },
+      {
+        "source": "genres/jazz/artists/sam-rivers",
+        "anchor": null,
+        "snippet": "The Apollo Music Center — early teaching base in Harlem."
       },
       {
         "source": "genres/jazz/overview",
@@ -1595,6 +1798,21 @@
         "snippet": "…Manhattan venues most associated with hip-hop include the Apollo Theater, Latin Quarter (96 Lexington), and the Knitting Factory."
       },
       {
+        "source": "genres/jazz/artists/john-zorn",
+        "anchor": null,
+        "snippet": "…His Naked City and Masada projects defined the post-loft-jazz aesthetic; his Tzadik label (founded 1995) became the scene's documentary backbone; and his curatorial work at the Knitting Factory and at his own venue The Stone built the institutional infrastructure that downtown improvisation has used ever since."
+      },
+      {
+        "source": "genres/jazz/artists/ornette-coleman",
+        "anchor": null,
+        "snippet": "Knitting Factory — multiple appearances in the 1990s as the downtown scene reclaimed his lineage."
+      },
+      {
+        "source": "genres/jazz/artists/sam-rivers",
+        "anchor": null,
+        "snippet": "Knitting Factory — return appearances in the 1990s after Rivers had relocated to Florida."
+      },
+      {
         "source": "genres/jazz/overview",
         "anchor": null,
         "snippet": "…nt-garde downtown scenes — SoHo loft jazz in the 1970s, the Knitting Factory downtown scene from 1987, and a present-day Brooklyn-spillover ecosystem still partly rooted in Manhattan.…"
@@ -1640,6 +1858,16 @@
         "source": "genres/hip-hop/overview",
         "anchor": null,
         "snippet": "…e Lower East Side, with Def Jam's offices migrating through Greenwich Village and Midtown over the decades."
+      },
+      {
+        "source": "genres/jazz/artists/john-zorn",
+        "anchor": null,
+        "snippet": "…ly Avenue C and 2nd Street; since 2018 at the New School in Greenwich Village) — Zorn's own venue, opened 2005."
+      },
+      {
+        "source": "genres/jazz/artists/sam-rivers",
+        "anchor": null,
+        "snippet": "…The \"Rivbea\" portmanteau (Rivers + Beatrice) became shorthand for an entire scene of musician-run, post-Coltrane, post-Ornette free improvisation that organized itself outside the Greenwich Village club circuit and the Lincoln Center mainstream."
       },
       {
         "source": "genres/jazz/overview",
@@ -1707,26 +1935,58 @@
         "snippet": "…ing their own venues out of their living spaces because the Greenwich Village jazz clubs had closed ranks.…"
       }
     ],
-    "neighborhoods/greenwich-village/venues/village-vanguard": [
+    "genres/jazz/artists/wynton-marsalis": [
+      {
+        "source": "genres/jazz/artists/john-zorn",
+        "anchor": null,
+        "snippet": "…The 2003 MacArthur Fellowship and the 2007 birthday-month concert series at Lincoln Center marked his shift from \"downtown\" outsider to canonical contemporary American composer, though he has retained the East Village address, the Tzadik aesthetic, and a deliberate distance from the major institutional jazz mainstream represented by Wynton Marsalis at Lincoln Center."
+      },
       {
         "source": "genres/jazz/overview",
         "anchor": null,
-        "snippet": "…established uptown and Village club circuit anchored by the Village Vanguard (178 Seventh Avenue South, opened 1935) and the Blue Note (131 West 3rd Street, opened 1981), and a succession of avant-garde downtown scenes — SoHo loft jazz in the 1970s, the Knitting Factory downtown scene from 1987, and a present-day Brooklyn-spillover ecosystem still partly rooted in Manhattan.…"
-      },
-      {
-        "source": "HOME",
-        "anchor": null,
-        "snippet": "…Bowery Ballroom, Mercury Lounge, Apollo Theater, Blue Note, Village Vanguard, Electric Lady Studios"
+        "snippet": "Wynton Marsalis — trumpeter and Jazz at Lincoln Center managing artistic director since 1987; the institutional architect of mainstream-jazz Manhattan."
       },
       {
         "source": "log",
         "anchor": null,
-        "snippet": "…es/mercury-lounge, venues/apollo-theater, venues/blue-note, venues/village-vanguard, venues/electric-lady-studios, artists/ramones, artists/blondie, artists/talking-heads, artists/patti-smith, artists/television, artists/sonic-youth, artists/beastie-boys, artists/madonna, artists/strokes, artists/lcd-soundsystem, artists/yeah-yeah-yeahs, artists/interpol, artists/asap-mob, artists/vampire-weekend, artists/new-york-dolls, neighborhoods/lower-east-side, neighborhoods/east-village, neighborhoods/greenwich-village, neighborhoods/soho, neighborhoods/harlem, neighborhoods/chelsea-meatpacking, neighborhoods/midtown-times-square."
+        "snippet": "…azz/artists/ornette-coleman, genres/jazz/artists/john-zorn, genres/jazz/artists/wynton-marsalis, genres/jazz/overview."
+      }
+    ],
+    "genres/jazz/overview": [
+      {
+        "source": "genres/jazz/artists/john-zorn",
+        "anchor": null,
+        "snippet": "jazz"
+      },
+      {
+        "source": "genres/jazz/artists/ornette-coleman",
+        "anchor": null,
+        "snippet": "…The Prince Street loft he opened as Artists House in the late 1960s was an early prototype for the SoHo loft jazz network; his harmolodic theory shaped the post-1970 downtown improvisation scene; and his 1977 album *Dancing in Your Head* and 1995 album *Tone Dialing* reframed him repeatedly as a contemporary, not a historical, figure."
+      },
+      {
+        "source": "genres/jazz/artists/sam-rivers",
+        "anchor": null,
+        "snippet": "…in his late forties — the central figure of the 1970s SoHo loft jazz movement after he and his wife Beatrice opened Studio Rivbea at 24 Bond Street in 1971.…"
+      },
+      {
+        "source": "genres/jazz/artists/wynton-marsalis",
+        "anchor": null,
+        "snippet": "…Rose Hall complex at Columbus Circle, opened in 2004, made jazz the first new American music to receive a Lincoln Center constituent organization."
+      },
+      {
+        "source": "HOME",
+        "anchor": null,
+        "snippet": "…rock, no wave, disco, hip-hop, new wave, post-punk revival, jazz, electronic dance"
+      },
+      {
+        "source": "log",
+        "anchor": null,
+        "snippet": "…genres/hip-hop, genres/new-wave, genres/post-punk-revival, genres/jazz, genres/electronic-dance, venues/cbgb, venues/maxs-kansas-city, venues/studio-54, venues/paradise-garage, venues/mudd-club, venues/danceteria, venues/knitting-factory, venues/bowery-ballroom, venues/mercury-lounge, venues/apollo-theater, venues/blue-note, venues/village-vanguard, venues/electric-lady-studios, artists/ramones, artists/blondie, artists/talking-heads, artists/patti-smith, artists/television, artists/sonic-youth, artists/beastie-boys, artists/madonna, artists/strokes, artists/lcd-soundsystem, artists/yeah-yeah-yeahs, artists/interpol, artists/asap-mob, artists/vampire-weekend, artists/new-york-dolls, neighborhoods/lower-east-side, neighborhoods/east-village, neighborhoods/greenwich-village, neighborhoods/soho, neighborhoods/harlem, neighborhoods/chelsea-meatpacking, neighborhoods/midtown-times-square."
       },
       {
         "source": "neighborhoods/greenwich-village/overview",
         "anchor": null,
-        "snippet": "…Seventh Avenue South cuts diagonally across the Village and is the jazz corridor: the Village Vanguard has been at 178 Seventh Avenue South since 1935, and the Blue Note opened at 131 West 3rd in 1981.…"
+        "snippet": "…It is the oldest continuously musical neighborhood in Manhattan: the 1960s folk revival broke here, the great postwar jazz clubs lined Seventh Avenue South, and the Village absorbed a tail end of the Velvet Underground / Warhol crowd as it spilled out of the East Village.…"
       },
       {
         "source": "neighborhoods/greenwich-village/venues/blue-note",
@@ -1734,115 +1994,36 @@
         "snippet": "…With a capacity of roughly 200 across two nightly sets, it has hosted virtually every major living jazz musician across more than four decades and is the anchor of the contemporary New York jazz-club circuit alongside the older Village Vanguard."
       },
       {
-        "source": "neighborhoods/greenwich-village/venues/electric-lady-studios",
-        "anchor": null,
-        "snippet": "Village Vanguard"
-      },
-      {
-        "source": "neighborhoods/harlem/venues/apollo-theater",
-        "anchor": null,
-        "snippet": "Village Vanguard"
-      },
-      {
-        "source": "neighborhoods/soho/venues/knitting-factory",
-        "anchor": null,
-        "snippet": "…Its programming routinely linked free jazz lineages from the Village Vanguard tradition to the no wave descendants who came of age at the Mudd Club."
-      }
-    ],
-    "neighborhoods/greenwich-village/venues/blue-note": [
-      {
-        "source": "genres/jazz/overview",
-        "anchor": null,
-        "snippet": "…ge Vanguard (178 Seventh Avenue South, opened 1935) and the Blue Note (131 West 3rd Street, opened 1981), and a succession of avant-garde downtown scenes — SoHo loft jazz in the 1970s, the Knitting Factory downtown scene from 1987, and a present-day Brooklyn-spillover ecosystem still partly rooted in Manhattan.…"
-      },
-      {
-        "source": "HOME",
-        "anchor": null,
-        "snippet": "…g Factory, Bowery Ballroom, Mercury Lounge, Apollo Theater, Blue Note, Village Vanguard, Electric Lady Studios"
-      },
-      {
-        "source": "log",
-        "anchor": null,
-        "snippet": "…ery-ballroom, venues/mercury-lounge, venues/apollo-theater, venues/blue-note, venues/village-vanguard, venues/electric-lady-studios, artists/ramones, artists/blondie, artists/talking-heads, artists/patti-smith, artists/television, artists/sonic-youth, artists/beastie-boys, artists/madonna, artists/strokes, artists/lcd-soundsystem, artists/yeah-yeah-yeahs, artists/interpol, artists/asap-mob, artists/vampire-weekend, artists/new-york-dolls, neighborhoods/lower-east-side, neighborhoods/east-village, neighborhoods/greenwich-village, neighborhoods/soho, neighborhoods/harlem, neighborhoods/chelsea-meatpacking, neighborhoods/midtown-times-square."
-      },
-      {
-        "source": "neighborhoods/greenwich-village/overview",
-        "anchor": null,
-        "snippet": "…Seventh Avenue South cuts diagonally across the Village and is the jazz corridor: the Village Vanguard has been at 178 Seventh Avenue South since 1935, and the Blue Note opened at 131 West 3rd in 1981.…"
-      },
-      {
         "source": "neighborhoods/greenwich-village/venues/village-vanguard",
         "anchor": null,
-        "snippet": "Blue Note (jazz club)"
+        "snippet": "…uously operating ever since — making it the longest-running jazz club in the world.…"
+      },
+      {
+        "source": "neighborhoods/harlem/overview",
+        "anchor": null,
+        "snippet": "…It is the single most important neighborhood in the history of Black American music: the jazz capital of the world from the 1920s through the 1950s, the home stage of the Apollo Theater, and, beginning in the 1990s, a steadily growing presence in hip-hop through Mase, Cam'ron and Dipset, and later A$AP Mob."
       },
       {
         "source": "neighborhoods/harlem/venues/apollo-theater",
         "anchor": null,
-        "snippet": "Blue Note (jazz club)"
-      }
-    ],
-    "genres/no-wave/artists/sonic-youth": [
-      {
-        "source": "genres/jazz/overview",
-        "anchor": null,
-        "snippet": "…The downtown scene also overlapped with Sonic Youth and the no wave generation through Glenn Branca and Arto Lindsay."
-      },
-      {
-        "source": "genres/no-wave/overview",
-        "anchor": null,
-        "snippet": "…The young Sonic Youth emerged at the tail end of this milieu in 1981, drawing directly on Branca's mass-guitar ensembles."
-      },
-      {
-        "source": "genres/post-punk-revival/artists/lcd-soundsystem",
-        "anchor": null,
-        "snippet": "…r / hate letter to the same downtown scene that had birthed Sonic Youth and the Beastie Boys.…"
-      },
-      {
-        "source": "genres/post-punk-revival/artists/strokes",
-        "anchor": null,
-        "snippet": "…Their 2001 debut *Is This It* effectively launched the global post-punk revival, shifting the center of gravity of indie rock back to the Lower East Side for the first time since the early-'80s Sonic Youth era.…"
-      },
-      {
-        "source": "genres/punk-rock/artists/ramones",
-        "anchor": null,
-        "snippet": "…every Manhattan punk and post-punk band that followed, from Sonic Youth to The Strokes, and globally through the Sex Pistols, the Clash, and Nirvana, all of whom have credited the Ramones as foundational."
-      },
-      {
-        "source": "HOME",
-        "anchor": null,
-        "snippet": "…: Ramones, Blondie, Talking Heads, Patti Smith, Television, Sonic Youth, Beastie Boys, Madonna, The Strokes, LCD Soundsystem, Yeah…"
-      },
-      {
-        "source": "log",
-        "anchor": null,
-        "snippet": "…sts/talking-heads, artists/patti-smith, artists/television, artists/sonic-youth, artists/beastie-boys, artists/madonna, artists/strokes, artists/lcd-soundsystem, artists/yeah-yeah-yeahs, artists/interpol, artists/asap-mob, artists/vampire-weekend, artists/new-york-dolls, neighborhoods/lower-east-side, neighborhoods/east-village, neighborhoods/greenwich-village, neighborhoods/soho, neighborhoods/harlem, neighborhoods/chelsea-meatpacking, neighborhoods/midtown-times-square."
-      },
-      {
-        "source": "neighborhoods/east-village/overview",
-        "anchor": null,
-        "snippet": "…East Village clubs like the Pyramid Club on Avenue A and 8BC on East 8th hosted the drag, performance-art, and no wave overflow; Sonic Youth cut their teeth in this circuit."
-      },
-      {
-        "source": "neighborhoods/soho/overview",
-        "anchor": null,
-        "snippet": "…Beginning around 1978, Sonic Youth, Lydia Lunch, James Chance, DNA, and the Theoretical Girls played short, scraped, atonal sets in SoHo lofts and at the Mudd Club at 77 White Street.…"
+        "snippet": "…Across nearly a century the Apollo has cycled through jazz, R&B, soul, and hip-hop without losing its central place in Harlem's cultural identity."
       },
       {
         "source": "neighborhoods/soho/venues/knitting-factory",
         "anchor": null,
-        "snippet": "…It also booked rock — early shows by Sonic Youth collaborators, Beastie Boys side projects, and the Ween-adjacent weirder end of the 1990s indie scene — as well as hip-hop showcases and electronic nights.…"
-      },
-      {
-        "source": "neighborhoods/soho/venues/mudd-club",
-        "anchor": null,
-        "snippet": "Sonic Youth — earliest gigs in the no wave continuum."
+        "snippet": "…Its first home at 47 East Houston Street and its long-running Tribeca location at 74 Leonard Street made it the central node for downtown jazz, no wave, and the broader experimental music ecosystem associated with John Zorn's Knitting Factory Works label."
       }
     ],
     "genres/no-wave/overview": [
       {
+        "source": "genres/jazz/artists/john-zorn",
+        "anchor": null,
+        "snippet": "No Wave"
+      },
+      {
         "source": "genres/jazz/overview",
         "anchor": null,
-        "snippet": "…The downtown scene also overlapped with Sonic Youth and the no wave generation through Glenn Branca and Arto Lindsay."
+        "snippet": "The downtown scene also overlapped with Sonic Youth and the no wave generation through Glenn Branca and Arto Lindsay."
       },
       {
         "source": "genres/new-wave/overview",
@@ -1908,6 +2089,223 @@
         "source": "neighborhoods/soho/venues/mudd-club",
         "anchor": null,
         "snippet": "…The club incubated no wave, early hip-hop crossover events, and the visual-art scene that produced Basquiat and Haring."
+      }
+    ],
+    "genres/jazz/artists/sam-rivers": [
+      {
+        "source": "genres/jazz/artists/john-zorn",
+        "anchor": null,
+        "snippet": "Sam Rivers"
+      },
+      {
+        "source": "genres/jazz/artists/ornette-coleman",
+        "anchor": null,
+        "snippet": "Sam Rivers"
+      },
+      {
+        "source": "genres/jazz/overview",
+        "anchor": null,
+        "snippet": "Sam Rivers — saxophonist whose Studio Rivbea on Bond Street anchored the SoHo loft-jazz scene from 1971 onward."
+      },
+      {
+        "source": "log",
+        "anchor": null,
+        "snippet": "Files touched: genres/jazz/artists/sam-rivers, genres/jazz/artists/ornette-coleman, genres/jazz/artists/john-zorn, genres/jazz/artists/wynton-marsalis, genres/jazz/overview."
+      }
+    ],
+    "genres/jazz/artists/ornette-coleman": [
+      {
+        "source": "genres/jazz/artists/john-zorn",
+        "anchor": null,
+        "snippet": "Ornette Coleman"
+      },
+      {
+        "source": "genres/jazz/artists/sam-rivers",
+        "anchor": null,
+        "snippet": "Ornette Coleman"
+      },
+      {
+        "source": "genres/jazz/overview",
+        "anchor": null,
+        "snippet": "Ornette Coleman — Manhattan-resident free-jazz pioneer from his 1959 Five Spot residency until his death in 2015; ran Artists House on Prince Street."
+      },
+      {
+        "source": "log",
+        "anchor": null,
+        "snippet": "Files touched: genres/jazz/artists/sam-rivers, genres/jazz/artists/ornette-coleman, genres/jazz/artists/john-zorn, genres/jazz/artists/wynton-marsalis, genres/jazz/overview."
+      }
+    ],
+    "genres/jazz/artists/john-zorn": [
+      {
+        "source": "genres/jazz/artists/ornette-coleman",
+        "anchor": null,
+        "snippet": "…His harmolodic theory, often dismissed as oblique in his own lifetime, became foundational vocabulary for John Zorn, Bill Frisell, the entire downtown M-Base wing, and the Brooklyn-based generation of Mary Halvorson, Tyshawn Sorey, and Vijay Iyer.…"
+      },
+      {
+        "source": "genres/jazz/artists/sam-rivers",
+        "anchor": null,
+        "snippet": "…med performance lofts — directly influenced everything from John Zorn's Knitting Factory to The Stone to the Brooklyn DIY jazz spaces of the 2000s and 2010s.…"
+      },
+      {
+        "source": "genres/jazz/artists/wynton-marsalis",
+        "anchor": null,
+        "snippet": "…His critical reputation has cycled: lionized in the 1980s, contested in the 1990s and 2000s by critics who saw his neoclassicism as canon-policing against the avant-garde tradition that John Zorn and the downtown scene represent, and broadly re-evaluated in the 2010s and 2020s as the institutional payoff of his 1987 decision became visible.…"
+      },
+      {
+        "source": "genres/jazz/overview",
+        "anchor": null,
+        "snippet": "John Zorn — saxophonist, composer, Tzadik label founder, and curatorial spine of the Knitting Factory and The Stone."
+      },
+      {
+        "source": "log",
+        "anchor": null,
+        "snippet": "…zz/artists/sam-rivers, genres/jazz/artists/ornette-coleman, genres/jazz/artists/john-zorn, genres/jazz/artists/wynton-marsalis, genres/jazz/overview."
+      }
+    ],
+    "neighborhoods/greenwich-village/venues/village-vanguard": [
+      {
+        "source": "genres/jazz/artists/sam-rivers",
+        "anchor": null,
+        "snippet": "Village Vanguard — periodic engagements throughout his career."
+      },
+      {
+        "source": "genres/jazz/artists/wynton-marsalis",
+        "anchor": null,
+        "snippet": "Village Vanguard — multiple Septet residencies in the late 1980s and early 1990s."
+      },
+      {
+        "source": "genres/jazz/overview",
+        "anchor": null,
+        "snippet": "…established uptown and Village club circuit anchored by the Village Vanguard (178 Seventh Avenue South, opened 1935) and the Blue Note (131 West 3rd Street, opened 1981), and a succession of avant-garde downtown scenes — SoHo loft jazz in the 1970s, the Knitting Factory downtown scene from 1987, and a present-day Brooklyn-spillover ecosystem still partly rooted in Manhattan.…"
+      },
+      {
+        "source": "HOME",
+        "anchor": null,
+        "snippet": "…Bowery Ballroom, Mercury Lounge, Apollo Theater, Blue Note, Village Vanguard, Electric Lady Studios"
+      },
+      {
+        "source": "log",
+        "anchor": null,
+        "snippet": "…es/mercury-lounge, venues/apollo-theater, venues/blue-note, venues/village-vanguard, venues/electric-lady-studios, artists/ramones, artists/blondie, artists/talking-heads, artists/patti-smith, artists/television, artists/sonic-youth, artists/beastie-boys, artists/madonna, artists/strokes, artists/lcd-soundsystem, artists/yeah-yeah-yeahs, artists/interpol, artists/asap-mob, artists/vampire-weekend, artists/new-york-dolls, neighborhoods/lower-east-side, neighborhoods/east-village, neighborhoods/greenwich-village, neighborhoods/soho, neighborhoods/harlem, neighborhoods/chelsea-meatpacking, neighborhoods/midtown-times-square."
+      },
+      {
+        "source": "neighborhoods/greenwich-village/overview",
+        "anchor": null,
+        "snippet": "…Seventh Avenue South cuts diagonally across the Village and is the jazz corridor: the Village Vanguard has been at 178 Seventh Avenue South since 1935, and the Blue Note opened at 131 West 3rd in 1981.…"
+      },
+      {
+        "source": "neighborhoods/greenwich-village/venues/blue-note",
+        "anchor": null,
+        "snippet": "…With a capacity of roughly 200 across two nightly sets, it has hosted virtually every major living jazz musician across more than four decades and is the anchor of the contemporary New York jazz-club circuit alongside the older Village Vanguard."
+      },
+      {
+        "source": "neighborhoods/greenwich-village/venues/electric-lady-studios",
+        "anchor": null,
+        "snippet": "Village Vanguard"
+      },
+      {
+        "source": "neighborhoods/harlem/venues/apollo-theater",
+        "anchor": null,
+        "snippet": "Village Vanguard"
+      },
+      {
+        "source": "neighborhoods/soho/venues/knitting-factory",
+        "anchor": null,
+        "snippet": "…Its programming routinely linked free jazz lineages from the Village Vanguard tradition to the no wave descendants who came of age at the Mudd Club."
+      }
+    ],
+    "neighborhoods/greenwich-village/venues/blue-note": [
+      {
+        "source": "genres/jazz/artists/wynton-marsalis",
+        "anchor": null,
+        "snippet": "Blue Note — guest sets and residencies."
+      },
+      {
+        "source": "genres/jazz/overview",
+        "anchor": null,
+        "snippet": "…ge Vanguard (178 Seventh Avenue South, opened 1935) and the Blue Note (131 West 3rd Street, opened 1981), and a succession of avant-garde downtown scenes — SoHo loft jazz in the 1970s, the Knitting Factory downtown scene from 1987, and a present-day Brooklyn-spillover ecosystem still partly rooted in Manhattan.…"
+      },
+      {
+        "source": "HOME",
+        "anchor": null,
+        "snippet": "…g Factory, Bowery Ballroom, Mercury Lounge, Apollo Theater, Blue Note, Village Vanguard, Electric Lady Studios"
+      },
+      {
+        "source": "log",
+        "anchor": null,
+        "snippet": "…ery-ballroom, venues/mercury-lounge, venues/apollo-theater, venues/blue-note, venues/village-vanguard, venues/electric-lady-studios, artists/ramones, artists/blondie, artists/talking-heads, artists/patti-smith, artists/television, artists/sonic-youth, artists/beastie-boys, artists/madonna, artists/strokes, artists/lcd-soundsystem, artists/yeah-yeah-yeahs, artists/interpol, artists/asap-mob, artists/vampire-weekend, artists/new-york-dolls, neighborhoods/lower-east-side, neighborhoods/east-village, neighborhoods/greenwich-village, neighborhoods/soho, neighborhoods/harlem, neighborhoods/chelsea-meatpacking, neighborhoods/midtown-times-square."
+      },
+      {
+        "source": "neighborhoods/greenwich-village/overview",
+        "anchor": null,
+        "snippet": "…Seventh Avenue South cuts diagonally across the Village and is the jazz corridor: the Village Vanguard has been at 178 Seventh Avenue South since 1935, and the Blue Note opened at 131 West 3rd in 1981.…"
+      },
+      {
+        "source": "neighborhoods/greenwich-village/venues/village-vanguard",
+        "anchor": null,
+        "snippet": "Blue Note (jazz club)"
+      },
+      {
+        "source": "neighborhoods/harlem/venues/apollo-theater",
+        "anchor": null,
+        "snippet": "Blue Note (jazz club)"
+      }
+    ],
+    "genres/no-wave/artists/sonic-youth": [
+      {
+        "source": "genres/jazz/overview",
+        "anchor": null,
+        "snippet": "The downtown scene also overlapped with Sonic Youth and the no wave generation through Glenn Branca and Arto Lindsay."
+      },
+      {
+        "source": "genres/no-wave/overview",
+        "anchor": null,
+        "snippet": "…The young Sonic Youth emerged at the tail end of this milieu in 1981, drawing directly on Branca's mass-guitar ensembles."
+      },
+      {
+        "source": "genres/post-punk-revival/artists/lcd-soundsystem",
+        "anchor": null,
+        "snippet": "…r / hate letter to the same downtown scene that had birthed Sonic Youth and the Beastie Boys.…"
+      },
+      {
+        "source": "genres/post-punk-revival/artists/strokes",
+        "anchor": null,
+        "snippet": "…Their 2001 debut *Is This It* effectively launched the global post-punk revival, shifting the center of gravity of indie rock back to the Lower East Side for the first time since the early-'80s Sonic Youth era.…"
+      },
+      {
+        "source": "genres/punk-rock/artists/ramones",
+        "anchor": null,
+        "snippet": "…every Manhattan punk and post-punk band that followed, from Sonic Youth to The Strokes, and globally through the Sex Pistols, the Clash, and Nirvana, all of whom have credited the Ramones as foundational."
+      },
+      {
+        "source": "HOME",
+        "anchor": null,
+        "snippet": "…: Ramones, Blondie, Talking Heads, Patti Smith, Television, Sonic Youth, Beastie Boys, Madonna, The Strokes, LCD Soundsystem, Yeah…"
+      },
+      {
+        "source": "log",
+        "anchor": null,
+        "snippet": "…sts/talking-heads, artists/patti-smith, artists/television, artists/sonic-youth, artists/beastie-boys, artists/madonna, artists/strokes, artists/lcd-soundsystem, artists/yeah-yeah-yeahs, artists/interpol, artists/asap-mob, artists/vampire-weekend, artists/new-york-dolls, neighborhoods/lower-east-side, neighborhoods/east-village, neighborhoods/greenwich-village, neighborhoods/soho, neighborhoods/harlem, neighborhoods/chelsea-meatpacking, neighborhoods/midtown-times-square."
+      },
+      {
+        "source": "neighborhoods/east-village/overview",
+        "anchor": null,
+        "snippet": "…East Village clubs like the Pyramid Club on Avenue A and 8BC on East 8th hosted the drag, performance-art, and no wave overflow; Sonic Youth cut their teeth in this circuit."
+      },
+      {
+        "source": "neighborhoods/soho/overview",
+        "anchor": null,
+        "snippet": "…Beginning around 1978, Sonic Youth, Lydia Lunch, James Chance, DNA, and the Theoretical Girls played short, scraped, atonal sets in SoHo lofts and at the Mudd Club at 77 White Street.…"
+      },
+      {
+        "source": "neighborhoods/soho/venues/knitting-factory",
+        "anchor": null,
+        "snippet": "…It also booked rock — early shows by Sonic Youth collaborators, Beastie Boys side projects, and the Ween-adjacent weirder end of the 1990s indie scene — as well as hip-hop showcases and electronic nights.…"
+      },
+      {
+        "source": "neighborhoods/soho/venues/mudd-club",
+        "anchor": null,
+        "snippet": "Sonic Youth — earliest gigs in the no wave continuum."
       }
     ],
     "genres/punk-rock/artists/blondie": [
@@ -2580,48 +2978,6 @@
         "snippet": "…ow considered the founding canon of American punk rock: the Ramones playing 17-minute sets, Blondie refining their pop instincts, and Talking Heads debuting their nervy art-rock.…"
       }
     ],
-    "neighborhoods/greenwich-village/venues/electric-lady-studios": [
-      {
-        "source": "genres/post-punk-revival/artists/strokes",
-        "anchor": null,
-        "snippet": "Electric Lady Studios — recorded portions of *Angles* and later albums."
-      },
-      {
-        "source": "genres/post-punk-revival/artists/vampire-weekend",
-        "anchor": null,
-        "snippet": "Electric Lady Studios — recorded *Modern Vampires of the City* (2012–2013)."
-      },
-      {
-        "source": "genres/post-punk-revival/artists/yeah-yeah-yeahs",
-        "anchor": null,
-        "snippet": "Electric Lady Studios — recording sessions for multiple albums."
-      },
-      {
-        "source": "genres/punk-rock/artists/patti-smith",
-        "anchor": null,
-        "snippet": "Electric Lady Studios — recording sessions in the Greenwich Village studio Hendrix built."
-      },
-      {
-        "source": "genres/punk-rock/overview",
-        "anchor": null,
-        "snippet": "…chors were Patti Smith, whose 1975 LP *Horses* (recorded at Electric Lady Studios) fused poetry and three-chord rock, and Television, whose 1977 *Marquee Moon* showcased the scene's more cerebral, guitar-forward wing.…"
-      },
-      {
-        "source": "HOME",
-        "anchor": null,
-        "snippet": "…ercury Lounge, Apollo Theater, Blue Note, Village Vanguard, Electric Lady Studios"
-      },
-      {
-        "source": "log",
-        "anchor": null,
-        "snippet": "…/apollo-theater, venues/blue-note, venues/village-vanguard, venues/electric-lady-studios, artists/ramones, artists/blondie, artists/talking-heads, artists/patti-smith, artists/television, artists/sonic-youth, artists/beastie-boys, artists/madonna, artists/strokes, artists/lcd-soundsystem, artists/yeah-yeah-yeahs, artists/interpol, artists/asap-mob, artists/vampire-weekend, artists/new-york-dolls, neighborhoods/lower-east-side, neighborhoods/east-village, neighborhoods/greenwich-village, neighborhoods/soho, neighborhoods/harlem, neighborhoods/chelsea-meatpacking, neighborhoods/midtown-times-square."
-      },
-      {
-        "source": "neighborhoods/greenwich-village/overview",
-        "anchor": null,
-        "snippet": "…West 8th Street, where Hendrix built Electric Lady Studios in 1970, is the Village's most musically consequential block of pavement."
-      }
-    ],
     "genres/punk-rock/artists/patti-smith": [
       {
         "source": "genres/post-punk-revival/artists/yeah-yeah-yeahs",
@@ -2745,53 +3101,41 @@
         "anchor": null,
         "snippet": "New York Dolls — late-period reunion-era shows on the Bowery."
       }
-    ],
-    "genres/jazz/overview": [
-      {
-        "source": "HOME",
-        "anchor": null,
-        "snippet": "…rock, no wave, disco, hip-hop, new wave, post-punk revival, jazz, electronic dance"
-      },
-      {
-        "source": "log",
-        "anchor": null,
-        "snippet": "…genres/hip-hop, genres/new-wave, genres/post-punk-revival, genres/jazz, genres/electronic-dance, venues/cbgb, venues/maxs-kansas-city, venues/studio-54, venues/paradise-garage, venues/mudd-club, venues/danceteria, venues/knitting-factory, venues/bowery-ballroom, venues/mercury-lounge, venues/apollo-theater, venues/blue-note, venues/village-vanguard, venues/electric-lady-studios, artists/ramones, artists/blondie, artists/talking-heads, artists/patti-smith, artists/television, artists/sonic-youth, artists/beastie-boys, artists/madonna, artists/strokes, artists/lcd-soundsystem, artists/yeah-yeah-yeahs, artists/interpol, artists/asap-mob, artists/vampire-weekend, artists/new-york-dolls, neighborhoods/lower-east-side, neighborhoods/east-village, neighborhoods/greenwich-village, neighborhoods/soho, neighborhoods/harlem, neighborhoods/chelsea-meatpacking, neighborhoods/midtown-times-square."
-      },
-      {
-        "source": "neighborhoods/greenwich-village/overview",
-        "anchor": null,
-        "snippet": "…It is the oldest continuously musical neighborhood in Manhattan: the 1960s folk revival broke here, the great postwar jazz clubs lined Seventh Avenue South, and the Village absorbed a tail end of the Velvet Underground / Warhol crowd as it spilled out of the East Village.…"
-      },
-      {
-        "source": "neighborhoods/greenwich-village/venues/blue-note",
-        "anchor": null,
-        "snippet": "…With a capacity of roughly 200 across two nightly sets, it has hosted virtually every major living jazz musician across more than four decades and is the anchor of the contemporary New York jazz-club circuit alongside the older Village Vanguard."
-      },
-      {
-        "source": "neighborhoods/greenwich-village/venues/village-vanguard",
-        "anchor": null,
-        "snippet": "…uously operating ever since — making it the longest-running jazz club in the world.…"
-      },
-      {
-        "source": "neighborhoods/harlem/overview",
-        "anchor": null,
-        "snippet": "…It is the single most important neighborhood in the history of Black American music: the jazz capital of the world from the 1920s through the 1950s, the home stage of the Apollo Theater, and, beginning in the 1990s, a steadily growing presence in hip-hop through Mase, Cam'ron and Dipset, and later A$AP Mob."
-      },
-      {
-        "source": "neighborhoods/harlem/venues/apollo-theater",
-        "anchor": null,
-        "snippet": "…Across nearly a century the Apollo has cycled through jazz, R&B, soul, and hip-hop without losing its central place in Harlem's cultural identity."
-      },
-      {
-        "source": "neighborhoods/soho/venues/knitting-factory",
-        "anchor": null,
-        "snippet": "…Its first home at 47 East Houston Street and its long-running Tribeca location at 74 Leonard Street made it the central node for downtown jazz, no wave, and the broader experimental music ecosystem associated with John Zorn's Knitting Factory Works label."
-      }
     ]
   },
   "forward": {
+    ".claude/skills/open-knowledge/SKILL": [],
+    ".cursor/skills/open-knowledge/SKILL": [],
+    "genres/disco/artists/chic": [
+      "genres/disco/overview",
+      "genres/electronic-dance/artists/madonna",
+      "genres/hip-hop/overview",
+      "neighborhoods/greenwich-village/venues/electric-lady-studios",
+      "neighborhoods/midtown-times-square/overview",
+      "neighborhoods/midtown-times-square/venues/studio-54",
+      "neighborhoods/soho/venues/paradise-garage"
+    ],
+    "genres/disco/artists/grace-jones": [
+      "genres/disco/overview",
+      "genres/electronic-dance/artists/madonna",
+      "genres/electronic-dance/overview",
+      "neighborhoods/midtown-times-square/overview",
+      "neighborhoods/midtown-times-square/venues/studio-54",
+      "neighborhoods/soho/venues/mudd-club",
+      "neighborhoods/soho/venues/paradise-garage"
+    ],
+    "genres/disco/artists/larry-levan": [
+      "genres/disco/overview",
+      "genres/electronic-dance/artists/madonna",
+      "genres/electronic-dance/overview",
+      "neighborhoods/soho/overview",
+      "neighborhoods/soho/venues/paradise-garage"
+    ],
     "genres/disco/overview": [
       "HOME",
+      "genres/disco/artists/chic",
+      "genres/disco/artists/grace-jones",
+      "genres/disco/artists/larry-levan",
       "genres/electronic-dance/artists/madonna",
       "genres/electronic-dance/overview",
       "genres/new-wave/overview",
@@ -2858,8 +3202,47 @@
       "neighborhoods/midtown-times-square/overview",
       "neighborhoods/soho/venues/knitting-factory"
     ],
+    "genres/jazz/artists/john-zorn": [
+      "genres/jazz/artists/ornette-coleman",
+      "genres/jazz/artists/sam-rivers",
+      "genres/jazz/artists/wynton-marsalis",
+      "genres/jazz/overview",
+      "genres/no-wave/overview",
+      "neighborhoods/east-village/overview",
+      "neighborhoods/greenwich-village/overview",
+      "neighborhoods/soho/venues/knitting-factory"
+    ],
+    "genres/jazz/artists/ornette-coleman": [
+      "genres/jazz/artists/john-zorn",
+      "genres/jazz/artists/sam-rivers",
+      "genres/jazz/overview",
+      "neighborhoods/east-village/overview",
+      "neighborhoods/soho/overview",
+      "neighborhoods/soho/venues/knitting-factory"
+    ],
+    "genres/jazz/artists/sam-rivers": [
+      "genres/jazz/artists/john-zorn",
+      "genres/jazz/artists/ornette-coleman",
+      "genres/jazz/overview",
+      "neighborhoods/greenwich-village/overview",
+      "neighborhoods/greenwich-village/venues/village-vanguard",
+      "neighborhoods/harlem/overview",
+      "neighborhoods/soho/overview",
+      "neighborhoods/soho/venues/knitting-factory"
+    ],
+    "genres/jazz/artists/wynton-marsalis": [
+      "genres/jazz/artists/john-zorn",
+      "genres/jazz/overview",
+      "neighborhoods/greenwich-village/venues/blue-note",
+      "neighborhoods/greenwich-village/venues/village-vanguard",
+      "neighborhoods/midtown-times-square/overview"
+    ],
     "genres/jazz/overview": [
       "HOME",
+      "genres/jazz/artists/john-zorn",
+      "genres/jazz/artists/ornette-coleman",
+      "genres/jazz/artists/sam-rivers",
+      "genres/jazz/artists/wynton-marsalis",
       "genres/no-wave/artists/sonic-youth",
       "genres/no-wave/overview",
       "neighborhoods/greenwich-village/overview",
@@ -3135,12 +3518,19 @@
     ],
     "log": [
       "HOME",
+      "genres/disco/artists/chic",
+      "genres/disco/artists/grace-jones",
+      "genres/disco/artists/larry-levan",
       "genres/disco/overview",
       "genres/electronic-dance/artists/madonna",
       "genres/electronic-dance/overview",
       "genres/hip-hop/artists/asap-mob",
       "genres/hip-hop/artists/beastie-boys",
       "genres/hip-hop/overview",
+      "genres/jazz/artists/john-zorn",
+      "genres/jazz/artists/ornette-coleman",
+      "genres/jazz/artists/sam-rivers",
+      "genres/jazz/artists/wynton-marsalis",
       "genres/jazz/overview",
       "genres/new-wave/overview",
       "genres/no-wave/artists/sonic-youth",
@@ -3418,10 +3808,54 @@
       "neighborhoods/chelsea-meatpacking/venues/danceteria",
       "neighborhoods/midtown-times-square/venues/studio-54",
       "neighborhoods/soho/overview"
-    ],
-    "test/test": []
+    ]
   },
   "externalForward": {
+    ".claude/skills/open-knowledge/SKILL": [
+      {
+        "url": "https://gist.github.com/karpathy/442a6bf555914893e9891c11519de94f",
+        "label": "Karpathy's three-layer knowledge-base pattern",
+        "snippet": "…e MCP tools build on the primitives above and correspond to Karpathy's three-layer knowledge-base pattern:"
+      }
+    ],
+    ".cursor/skills/open-knowledge/SKILL": [
+      {
+        "url": "https://gist.github.com/karpathy/442a6bf555914893e9891c11519de94f",
+        "label": "Karpathy's three-layer knowledge-base pattern",
+        "snippet": "…e MCP tools build on the primitives above and correspond to Karpathy's three-layer knowledge-base pattern:"
+      }
+    ],
+    "genres/disco/artists/chic": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Chic_(band",
+        "label": "https://en.wikipedia.org/wiki/Chic\\_(band)",
+        "snippet": "Wikipedia: Chic — https://en.wikipedia.org/wiki/Chic\\_(band))"
+      },
+      {
+        "url": "https://www.allmusic.com/artist/chic-mn0000201482",
+        "label": "https://www.allmusic.com/artist/chic-mn0000201482",
+        "snippet": "AllMusic: Chic — https://www.allmusic.com/artist/chic-mn0000201482"
+      }
+    ],
+    "genres/disco/artists/grace-jones": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Grace_Jones",
+        "label": "https://en.wikipedia.org/wiki/Grace\\_Jones",
+        "snippet": "Wikipedia: Grace Jones — https://en.wikipedia.org/wiki/Grace\\_Jones"
+      },
+      {
+        "url": "https://www.allmusic.com/artist/grace-jones-mn0000599330",
+        "label": "https://www.allmusic.com/artist/grace-jones-mn0000599330",
+        "snippet": "AllMusic: Grace Jones — https://www.allmusic.com/artist/grace-jones-mn0000599330"
+      }
+    ],
+    "genres/disco/artists/larry-levan": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Larry_Levan",
+        "label": "https://en.wikipedia.org/wiki/Larry\\_Levan",
+        "snippet": "Wikipedia: Larry Levan — https://en.wikipedia.org/wiki/Larry\\_Levan"
+      }
+    ],
     "genres/disco/overview": [
       {
         "url": "https://en.wikipedia.org/wiki/Disco",
@@ -3477,6 +3911,54 @@
         "url": "https://en.wikipedia.org/wiki/Def_Jam_Recordings",
         "label": "https://en.wikipedia.org/wiki/Def\\_Jam\\_Recordings",
         "snippet": "Wikipedia: Def Jam Recordings — https://en.wikipedia.org/wiki/Def\\_Jam\\_Recordings"
+      }
+    ],
+    "genres/jazz/artists/john-zorn": [
+      {
+        "url": "https://en.wikipedia.org/wiki/John_Zorn",
+        "label": "https://en.wikipedia.org/wiki/John\\_Zorn",
+        "snippet": "Wikipedia: John Zorn — https://en.wikipedia.org/wiki/John\\_Zorn"
+      },
+      {
+        "url": "https://www.tzadik.com/",
+        "label": "https://www.tzadik.com/",
+        "snippet": "Tzadik label catalog — https://www.tzadik.com/"
+      }
+    ],
+    "genres/jazz/artists/ornette-coleman": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Ornette_Coleman",
+        "label": "https://en.wikipedia.org/wiki/Ornette\\_Coleman",
+        "snippet": "Wikipedia: Ornette Coleman — https://en.wikipedia.org/wiki/Ornette\\_Coleman"
+      },
+      {
+        "url": "https://www.allmusic.com/artist/ornette-coleman-mn0000054074",
+        "label": "https://www.allmusic.com/artist/ornette-coleman-mn0000054074",
+        "snippet": "AllMusic: Ornette Coleman — https://www.allmusic.com/artist/ornette-coleman-mn0000054074"
+      }
+    ],
+    "genres/jazz/artists/sam-rivers": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Sam_Rivers",
+        "label": "https://en.wikipedia.org/wiki/Sam\\_Rivers",
+        "snippet": "Wikipedia: Sam Rivers — https://en.wikipedia.org/wiki/Sam\\_Rivers"
+      },
+      {
+        "url": "https://www.allmusic.com/artist/sam-rivers-mn0000220207",
+        "label": "https://www.allmusic.com/artist/sam-rivers-mn0000220207",
+        "snippet": "AllMusic: Sam Rivers — https://www.allmusic.com/artist/sam-rivers-mn0000220207"
+      }
+    ],
+    "genres/jazz/artists/wynton-marsalis": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Wynton_Marsalis",
+        "label": "https://en.wikipedia.org/wiki/Wynton\\_Marsalis",
+        "snippet": "Wikipedia: Wynton Marsalis — https://en.wikipedia.org/wiki/Wynton\\_Marsalis"
+      },
+      {
+        "url": "https://jazz.org/",
+        "label": "https://jazz.org/",
+        "snippet": "Jazz at Lincoln Center — https://jazz.org/"
       }
     ],
     "genres/jazz/overview": [
@@ -3873,7 +4355,6 @@
         "label": "https://www.nytimes.com/1987/09/27/style/the-paradise-garage-bows-out.html",
         "snippet": "NYT, \"The Paradise Garage Bows Out\" (Sept 1987) — https://www.nytimes.com/1987/09/27/style/the-paradise-garage-bows-out.html"
       }
-    ],
-    "test/test": []
+    ]
   }
 }

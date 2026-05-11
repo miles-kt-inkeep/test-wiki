@@ -15,3 +15,4 @@ state.json
 
 # MCP spawn diagnostics
 last-spawn-error.log
+local/

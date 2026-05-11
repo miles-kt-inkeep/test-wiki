@@ -1,11 +1,15 @@
 {
   "mcpServers": {
     "open-knowledge": {
-      "command": "npx",
+      "command": "node",
       "args": [
-        "@inkeep/open-knowledge",
+        "/Users/mileskaming-thanassi/agents-private/public/open-knowledge/.claude/worktrees/agent-a96f9268f23763d3b/public/open-knowledge/packages/cli/dist/cli.mjs",
         "mcp"
-      ]
+      ],
+      "env": {
+        "MCP_DEBUG": "1",
+        "OK_LOG_FILE": "/tmp/ok-mcp.log"
+      }
     }
   }
 }

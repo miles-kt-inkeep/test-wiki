@@ -30,15 +30,23 @@ The revival sound was essentially mid-tempo guitar rock with very deliberate ref
 
 ## Key artists
 
+### Manhattan-anchored
+
 - [The Strokes](artists/strokes.md) — *Is This It* (2001) defined the revival's sound and style.
 - [Interpol](artists/interpol.md) — *Turn On the Bright Lights* (2002) pulled the scene toward post-punk gloom.
 - [Yeah Yeah Yeahs](artists/yeah-yeah-yeahs.md) — Karen O's confrontational live show reconnected the scene to no wave.
 - [LCD Soundsystem](artists/lcd-soundsystem.md) — James Murphy's DFA project bridged dance and rock.
 - [Vampire Weekend](artists/vampire-weekend.md) — *Vampire Weekend* (2008) extended the moment into Afropop-inflected indie pop.
 
+### Brooklyn-anchored
+
+- [TV on the Radio](artists/tv-on-the-radio.md) — formed in [Williamsburg](../../neighborhoods/williamsburg/overview.md) in 2001; *Desperate Youth, Blood Thirsty Babes* (2004) and *Return to Cookie Mountain* (2006) were the first widely-noticed Brooklyn-located indie albums of the era.
+- [Grizzly Bear](artists/grizzly-bear.md) — *Yellow House* (2006) and *Veckatimest* (2009); the late-2000s chamber-folk flagship of Williamsburg / [Greenpoint](../../neighborhoods/greenpoint/overview.md).
+- [Dirty Projectors](artists/dirty-projectors.md) — *Bitte Orca* (2009); David Longstreth's polyrhythmic ensemble, the technical-virtuosity flagship of the wave.
+
 ## Neighborhoods
 
-The revival was overwhelmingly a [Lower East Side](../../neighborhoods/lower-east-side/overview.md) and [East Village](../../neighborhoods/east-village/overview.md) phenomenon, with DFA's studio in [Greenwich Village](../../neighborhoods/greenwich-village/overview.md) and Vampire Weekend's collegiate origin uptown.
+The revival's Manhattan side was overwhelmingly a [Lower East Side](../../neighborhoods/lower-east-side/overview.md) and [East Village](../../neighborhoods/east-village/overview.md) phenomenon, with DFA's studio in [Greenwich Village](../../neighborhoods/greenwich-village/overview.md) and Vampire Weekend's collegiate origin uptown. The Brooklyn side ran in parallel through [Williamsburg](../../neighborhoods/williamsburg/overview.md) (TV on the Radio's Stay Gold sessions; Grizzly Bear and Dirty Projectors's loft years) and adjacent [Greenpoint](../../neighborhoods/greenpoint/overview.md) and [Bushwick](../../neighborhoods/bushwick/overview.md). By 2008 the center of gravity for indie-rock activity had shifted from the Lower East Side rooms to the Brooklyn loft-and-warehouse circuit, even though the Mercury Lounge / Bowery Ballroom proving grounds remained on the Manhattan side; see [Brooklyn — borough overview](../../neighborhoods/brooklyn.md) for the cross-river coverage.
 
 ## Decline / legacy
 

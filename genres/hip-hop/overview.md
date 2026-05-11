@@ -44,6 +44,10 @@ Hip-hop's Manhattan footprint centers on [Harlem](../../neighborhoods/harlem/ove
 
 Hip-hop didn't decline — it became the dominant pop form. What changed in Manhattan specifically is that skyrocketing rents pushed most independent rap activity to Brooklyn and Queens by the late 2000s, leaving Manhattan as the industry's office address rather than its creative street. Def Jam is now a Universal imprint headquartered in Midtown; A$AP Mob remains the highest-profile crew still publicly identified with a Manhattan neighborhood.
 
+## The Brooklyn parallel
+
+Manhattan's role in hip-hop has always been institutional (labels, offices, MTV) more than residential. The borough that produced the canonical 1990s East Coast MCs — [The Notorious B.I.G.](artists/notorious-big.md) (Bed-Stuy / Clinton Hill) and [Jay-Z](artists/jay-z.md) (Marcy Houses, southern Williamsburg) — was Brooklyn, not Manhattan. The present-day Brooklyn drill scene (Pop Smoke, Fivio Foreign, Sheff G, all from Canarsie / East Flatbush / Bedford-Stuyvesant) continues that pattern. For the cross-river coverage, see [Brooklyn — borough overview](../../neighborhoods/brooklyn.md) and [Bedford-Stuyvesant](../../neighborhoods/bedford-stuyvesant/overview.md).
+
 ## See also
 
 - [Punk rock in Manhattan](../punk-rock/overview.md)

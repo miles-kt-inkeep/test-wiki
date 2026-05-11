@@ -34,7 +34,11 @@ Manhattan dance music has always been DJ-driven rather than producer-driven, whi
 
 - [LCD Soundsystem](../post-punk-revival/artists/lcd-soundsystem.md) — James Murphy's DFA project, the Manhattan dance-punk flagship of the 2000s.
 - [Madonna](artists/madonna.md) — emerged from the post-disco club scene at Danceteria in 1982 and stayed close to Manhattan dance music for two decades.
-- The DJ canon — Mancuso, Levan, Knuckles, Junior Vasquez, François K, Danny Krivit — whose work is the genre's actual authorial center.
+- [David Mancuso](artists/david-mancuso.md) — the Loft (1970), the prime mover and patron saint of the Manhattan dance underground.
+- [Frankie Knuckles](artists/frankie-knuckles.md) — Continental Baths apprenticeship before moving to Chicago in 1977 and inventing house music; returned for a Sound Factory Bar residency from 1987.
+- [Junior Vasquez](artists/junior-vasquez.md) — Sound Factory resident, 1989–1995, the defining post-Garage Saturday-night room in Manhattan.
+- [François K](artists/francois-k.md) — French expat producer, dub-disco mixer, and Body & Soul / Deep Space resident from 1996 onward.
+- The DJ canon — [Mancuso](artists/david-mancuso.md), [Levan](../disco/artists/larry-levan.md), [Knuckles](artists/frankie-knuckles.md), [Junior Vasquez](artists/junior-vasquez.md), [François K](artists/francois-k.md), Danny Krivit — whose work is the genre's actual authorial center.
 
 ## Neighborhoods
 
@@ -42,7 +46,11 @@ Manhattan dance music has lived mostly in [Chelsea / Meatpacking](../../neighbor
 
 ## Decline / legacy
 
-The Giuliani-era cabaret-law crackdowns of 1996–2001 closed many of the great rooms — Twilo lost its license in 2001 — and rising rents in Chelsea and the Meatpacking District replaced clubland with luxury hotels. EDM's 2010s commercial boom largely bypassed Manhattan in favor of festivals and Brooklyn warehouses. But the lineage isn't dead: Output (Brooklyn, 2013–2018), Nowadays in Queens, and a smaller Manhattan circuit at venues like Le Bain and the Brooklyn Mirage carry the Loft / Garage tradition forward, and Mancuso's "Loft" parties continued in various Manhattan locations until his death in 2016.
+The Giuliani-era cabaret-law crackdowns of 1996–2001 closed many of the great rooms — Twilo lost its license in 2001 — and rising rents in Chelsea and the Meatpacking District replaced clubland with luxury hotels. EDM's 2010s commercial boom largely bypassed Manhattan in favor of festivals and Brooklyn warehouses. But the lineage isn't dead: Output ([Williamsburg](../../neighborhoods/williamsburg/overview.md), 2013–2018), the Brooklyn Mirage and a long list of [Bushwick](../../neighborhoods/bushwick/overview.md) warehouse rooms (Bossa Nova Civic Club, House of Yes, Elsewhere, Public Records), Nowadays in Queens, and a smaller Manhattan circuit at venues like Le Bain carry the Loft / Garage tradition forward, and Mancuso's "Loft" parties continued in various Manhattan locations until his death in 2016.
+
+## The Brooklyn extension
+
+Manhattan dance music's institutional rooms have largely closed; the lineage continues across the river. From roughly 2010 onward Brooklyn — Williamsburg, Bushwick, and East Williamsburg in particular — has held the center of New York's dance economy, hosting the warehouse parties, listening-room residencies, and Berlin-style techno bookings that the Manhattan clubs of the 1990s and 2000s used to host. DFA's [LCD Soundsystem](../post-punk-revival/artists/lcd-soundsystem.md) opened [Brooklyn Steel](../../neighborhoods/bushwick/venues/brooklyn-steel.md) in 2017 with an eight-night residency that explicitly framed the borough's takeover. For the cross-river coverage, see [Brooklyn — borough overview](../../neighborhoods/brooklyn.md), [Williamsburg](../../neighborhoods/williamsburg/overview.md), and [Bushwick](../../neighborhoods/bushwick/overview.md).
 
 ## See also
 
