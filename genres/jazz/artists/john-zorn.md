@@ -37,6 +37,8 @@ The Tzadik label, founded in 1995 and run from a small office in the East Villag
 
 ## Legacy
 
+/
+
 Zorn's combined output as performer, composer, label boss, and venue curator is unmatched in postwar New York improvised music. His influence runs through every downtown player of the past forty years and through the Brooklyn jazz scene that grew out of Manhattan's gentrification displacement. The 2003 MacArthur Fellowship and the 2007 birthday-month concert series at Lincoln Center marked his shift from "downtown" outsider to canonical contemporary American composer, though he has retained the East Village address, the Tzadik aesthetic, and a deliberate distance from the major institutional jazz mainstream represented by [Wynton Marsalis](./wynton-marsalis.md) at Lincoln Center.
 
 ## See also
