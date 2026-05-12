@@ -10,7 +10,7 @@ tags:
 ---
 # Ramones
 
-The Ramones were an American [punk rock](../overview.md) band formed in 1974 whose two-minute, three-chord blasts effectively invented the genre as a recognizable form. Though the four founding members — Joey, Johnny, Dee Dee, and Tommy — came from Forest Hills, Queens, their creative home was Manhattan's [Lower East Side](../../../neighborhoods/lower-east-side/overview.md), where they became the house band at [CBGB](../../../neighborhoods/lower-east-side/venues/cbgb.md). Their leather-jacketed, bowl-cut uniformity and refusal of '70s rock excess provided the template every later punk and post-punk act would either follow or react against. By the time they retired in 1996 they had played 2,263 shows and reshaped popular music without ever scoring a real hit single.
+The Ramones were an American [punk rock](../overview.md) band formed in 1974 whose two-minute, three-chord blasts effectively invented the genre as a recognizable form. Though the four founding members — Joey, Johnny, Dee Dee, and Tommy — came from [Forest Hills, Queens](../../../neighborhoods/forest-hills/overview.md) (the four met at Forest Hills High School in the late 1960s), their creative home was Manhattan's [Lower East Side](../../../neighborhoods/lower-east-side/overview.md), where they became the house band at [CBGB](../../../neighborhoods/lower-east-side/venues/cbgb.md). Their leather-jacketed, bowl-cut uniformity and refusal of '70s rock excess provided the template every later punk and post-punk act would either follow or react against. By the time they retired in 1996 they had played 2,263 shows and reshaped popular music without ever scoring a real hit single.
 
 ## Formation and Manhattan context
 

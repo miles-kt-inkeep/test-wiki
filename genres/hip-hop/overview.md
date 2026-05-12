@@ -34,7 +34,7 @@ Manhattan hip-hop has no single sound, but the borough's recurring contributions
 
 - [Beastie Boys](artists/beastie-boys.md) — Manhattan-based crew whose Def Jam debut broke rap into white suburbia.
 - [A$AP Mob](artists/asap-mob.md) — the Harlem collective that defined 2010s NYC rap aesthetics.
-- LL Cool J, Public Enemy, and the broader Def Jam roster — built in Manhattan offices even when the artists came from the outer boroughs.
+- [LL Cool J](artists/ll-cool-j.md), Public Enemy, and the broader Def Jam roster — built in Manhattan offices even when the artists came from the outer boroughs (LL was from [Hollis](../../neighborhoods/hollis/overview.md), Queens — see [The Queens parallel](#the-queens-parallel) below).
 
 ## Neighborhoods
 
@@ -47,6 +47,10 @@ Hip-hop didn't decline — it became the dominant pop form. What changed in Manh
 ## The Brooklyn parallel
 
 Manhattan's role in hip-hop has always been institutional (labels, offices, MTV) more than residential. The borough that produced the canonical 1990s East Coast MCs — [The Notorious B.I.G.](artists/notorious-big.md) (Bed-Stuy / Clinton Hill) and [Jay-Z](artists/jay-z.md) (Marcy Houses, southern Williamsburg) — was Brooklyn, not Manhattan. The present-day Brooklyn drill scene (Pop Smoke, Fivio Foreign, Sheff G, all from Canarsie / East Flatbush / Bedford-Stuyvesant) continues that pattern. For the cross-river coverage, see [Brooklyn — borough overview](../../neighborhoods/brooklyn.md) and [Bedford-Stuyvesant](../../neighborhoods/bedford-stuyvesant/overview.md).
+
+## The Queens parallel
+
+Queens carries the second residential half of New York hip-hop — the half Manhattan's office-and-label framing missed. The borough's commercial 1980s wave came almost entirely out of [Hollis](../../neighborhoods/hollis/overview.md): [Run-DMC](artists/run-dmc.md) (the first hip-hop platinum group, 1986) and [LL Cool J](artists/ll-cool-j.md) (Def Jam's first platinum solo artist, 1985) lived blocks from each other. Russell Simmons — Def Jam's co-founder and the brother of Run-DMC's Run — grew up at the same Hollis address. The 1990s wave moved across the borough to the [Queensbridge Houses](../../neighborhoods/long-island-city/overview.md) in [Long Island City](../../neighborhoods/long-island-city/overview.md): [Nas](artists/nas.md)'s *Illmatic* (1994) and [Mobb Deep](artists/mobb-deep.md)'s *The Infamous* (1995) made Queensbridge the most-documented single project in rap. The same decade's alternative-rap canon came out of the St. Albans / Linden Boulevard area of [Jamaica](../../neighborhoods/jamaica/overview.md), with [A Tribe Called Quest](artists/tribe-called-quest.md) anchoring the Native Tongues collective. The 2000s commercial peak was [South Jamaica](../../neighborhoods/jamaica/overview.md)'s 50 Cent / G-Unit. The 2010s belonged to Nicki Minaj (raised between [Jamaica](../../neighborhoods/jamaica/overview.md) and [Long Island City](../../neighborhoods/long-island-city/overview.md)). For the cross-borough coverage, see [Queens — borough overview](../../neighborhoods/queens.md).
 
 ## See also
 
