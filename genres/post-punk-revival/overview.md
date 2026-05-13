@@ -20,7 +20,7 @@ The scene's intellectual conscience was [LCD Soundsystem](artists/lcd-soundsyste
 
 ## Sound and aesthetic
 
-The revival sound was essentially mid-tempo guitar rock with very deliberate references to 1977–1981 — the Strokes lifted from [Television](../punk-rock/artists/television.md) and the Velvet Underground, Interpol from Joy Division, the Rapture and LCD from PiL and ESG. Production favored dry, mid-fi drums and treble-forward guitars over the compressed loudness of late-1990s rock. The look — slim suits, narrow ties, scuffed Converse — was self-consciously a return to CBGB-era downtown style. What it rejected was the sincerity, distortion, and stadium ambition of post-Nirvana rock.
+The revival sound was essentially mid-tempo guitar rock with very deliberate references to 1977–1981 — the Strokes lifted from [Television](../punk-rock/artists/television.md) and the Velvet Underground, Interpol from Joy Division, [the Rapture](artists/rapture.md) and [LCD](artists/lcd-soundsystem.md) from PiL and ESG. Production favored dry, mid-fi drums and treble-forward guitars over the compressed loudness of late-1990s rock. The look — slim suits, narrow ties, scuffed Converse — was self-consciously a return to CBGB-era downtown style. What it rejected was the sincerity, distortion, and stadium ambition of post-Nirvana rock.
 
 ## Key venues
 
