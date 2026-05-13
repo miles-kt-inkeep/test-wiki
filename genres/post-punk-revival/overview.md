@@ -16,7 +16,7 @@ The Post-Punk Revival in Manhattan was the early-2000s scene that returned downt
 
 The Strokes' *The Modern Age* EP (Rough Trade, January 2001) and the wave of UK press it generated are the conventional starting gun. The band had spent 1999–2000 working out a leather-jacket-and-Telecaster aesthetic at small Lower East Side rooms, and *Is This It* (July 2001 UK / October 2001 US) became the template a dozen other bands chased. [Interpol](artists/interpol.md) — formed at NYU in 1997 — released *Turn On the Bright Lights* on Matador in August 2002, pushing the sound toward Joy Division austerity. [Yeah Yeah Yeahs](artists/yeah-yeah-yeahs.md), formed in 2000, brought no-wave abrasion back via Karen O's performances at the Mercury Lounge.
 
-The scene's intellectual conscience was [LCD Soundsystem](artists/lcd-soundsystem.md), James Murphy's project on his own DFA label (founded 2001 with Tim Goldsworthy and Jonathan Galkin in a Greenwich Street studio). DFA's parallel work with the Rapture — "House of Jealous Lovers" in 2002 — pulled the scene toward a dance-punk hybrid that became its second wave. [Vampire Weekend](artists/vampire-weekend.md), formed at Columbia in 2006, arrived as the scene's preppier afterward.
+The scene's intellectual conscience was [LCD Soundsystem](artists/lcd-soundsystem.md), James Murphy's project on his own DFA label (founded 2001 with Tim Goldsworthy and Jonathan Galkin in a Greenwich Street studio). DFA's parallel work with [the Rapture](artists/rapture.md) — "House of Jealous Lovers" in 2002 — pulled the scene toward a dance-punk hybrid that became its second wave. [Vampire Weekend](artists/vampire-weekend.md), formed at Columbia in 2006, arrived as the scene's preppier afterward.
 
 ## Sound and aesthetic
 
@@ -36,6 +36,7 @@ The revival sound was essentially mid-tempo guitar rock with very deliberate ref
 - [Interpol](artists/interpol.md) — *Turn On the Bright Lights* (2002) pulled the scene toward post-punk gloom.
 - [Yeah Yeah Yeahs](artists/yeah-yeah-yeahs.md) — Karen O's confrontational live show reconnected the scene to no wave.
 - [LCD Soundsystem](artists/lcd-soundsystem.md) — James Murphy's DFA project bridged dance and rock.
+- [The Rapture](artists/rapture.md) — "House of Jealous Lovers" (2002) was DFA's first production hit and the canonical dance-punk record.
 - [Vampire Weekend](artists/vampire-weekend.md) — *Vampire Weekend* (2008) extended the moment into Afropop-inflected indie pop.
 
 ### Brooklyn-anchored

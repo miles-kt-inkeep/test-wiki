@@ -40,6 +40,15 @@ Manhattan dance music has always been DJ-driven rather than producer-driven, whi
 - [François K](artists/francois-k.md) — French expat producer, dub-disco mixer, and Body & Soul / Deep Space resident from 1996 onward.
 - The DJ canon — [Mancuso](artists/david-mancuso.md), [Levan](../disco/artists/larry-levan.md), [Knuckles](artists/frankie-knuckles.md), [Junior Vasquez](artists/junior-vasquez.md), [François K](artists/francois-k.md), Danny Krivit — whose work is the genre's actual authorial center.
 
+### The DFA cluster (2001–present)
+
+DFA Records, founded in 2001 by James Murphy and Tim Goldsworthy on West 13th Street in [Greenwich Village](../../neighborhoods/greenwich-village/overview.md), produced the post-2000 Manhattan dance lineage. Beyond [LCD Soundsystem](../post-punk-revival/artists/lcd-soundsystem.md), the roster includes:
+
+- [The Rapture](../post-punk-revival/artists/rapture.md) — "House of Jealous Lovers" (2002) is the canonical dance-punk record and DFA's first production hit.
+- [Hercules & Love Affair](artists/hercules-and-love-affair.md) — Andy Butler's rotating disco-house project; "Blind" (2008) with Antony Hegarty / Anohni reconnected DFA explicitly to the Paradise Garage lineage.
+- [The Juan MacLean](artists/juan-maclean.md) — John MacLean's house-and-techno solo project, DFA's longest-running dance-floor voice.
+- [Holy Ghost!](artists/holy-ghost.md) — Alex Frankel and Nick Millhiser, the Upper West Side-raised synth-pop duo that became DFA's most-pop-leaning late-2000s signing.
+
 ## Neighborhoods
 
 Manhattan dance music has lived mostly in [Chelsea / Meatpacking](../../neighborhoods/chelsea-meatpacking/overview.md) (Sound Factory, Twilo, Cielo), [SoHo](../../neighborhoods/soho/overview.md) and Hudson Square (the Loft, Paradise Garage, Vinyl), and [Midtown](../../neighborhoods/midtown-times-square/overview.md) (Studio 54).
